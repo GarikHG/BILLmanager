@@ -8993,13 +8993,13 @@ List-Subscribe: &lt;url&gt;
       <msg name="24880"/>
     </messages>
     <messages name="country">
-      <msg name="hint_phonecode">Телефонный код страны</msg>
+      <msg name="hint_phonecode">Երկիր Հեռախոսի Կոդ</msg>
       <msg name="hint_iso2">Код страны в классификации ISO</msg>
       <msg name="module_description">Список стран оступный для выбора в различных формах BILLmanager</msg>
       <msg name="msg_confirm_delete">Вы действительно хотите удалить из справочника страну </msg>
       <msg name="title">Страны</msg>
       <msg name="iso2">ISO2</msg>
-      <msg name="phonecode">Телефонный код</msg>
+      <msg name="phonecode">Հեռախոսի կոդ</msg>
       <msg name="short_state">Регионы</msg>
       <msg name="hint_state">Регионы страны</msg>
       <msg name="short_profileparam">Параметры</msg>
@@ -9010,16 +9010,16 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Երկիրը</msg>
       <msg name="title_new">Добавление страны</msg>
       <msg name="iso2">ISO2</msg>
-      <msg name="phonecode">Телефонный код</msg>
+      <msg name="phonecode">Հեռախոսի կոդ</msg>
       <msg name="hint_iso2">Двух или пяти-буквенный код страны или региона</msg>
-      <msg name="hint_phonecode">Телефонный код страны</msg>
+      <msg name="hint_phonecode">Երկիր Հեռախոսի Կոդ</msg>
       <msg name="hint_name">Наименование страны</msg>
       <msg name="placeholder_iso2">RU</msg>
       <msg name="placeholder_phonecode">7</msg>
       <msg name="placeholder_name">Russian Federation</msg>
-      <msg name="doctype">Типы документов</msg>
+      <msg name="doctype">Փաստաթղթերի տեսակ</msg>
       <msg name="hint_doctype">Типы документов доступные для компаний из этой страны</msg>
-      <msg name="phoneformat">Формат номера телефона</msg>
+      <msg name="phoneformat">Հեռախոսի համարի ձևաչափը</msg>
       <msg name="hint_phoneformat">Формат номера телефона задается при помощи маски, без указания телефонного кода. Символ '9' в маске обозначает цифру от 0 до 9. В квадратных скобках можно указать количество необязательных знаков. Например, при маске 99-99-9[9] телефон может состоять из пяти или из шести цифр без учета кода.</msg>
       <msg name="placeholder_phoneformat">(999) 999-99-99</msg>
     </messages>
