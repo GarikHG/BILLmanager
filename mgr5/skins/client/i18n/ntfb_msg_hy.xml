@@ -199,7 +199,7 @@
       <msg name="goto">перейти</msg>
       <msg name="session_timeout">Вы долго ничего не делали&#13;&#10;Пожалуйста, авторизуйтесь ещё раз</msg>
       <msg name="verificate">Подтвердить</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="or">или</msg>
       <msg name="short_delete">Удалить</msg>
       <msg name="find">Найти</msg>
@@ -209,8 +209,8 @@
       <msg name="price_and_work_time">Бесплатно, круглосуточно</msg>
       <msg name="main">основной</msg>
       <msg name="main_menu_home">Главное</msg>
-      <msg name="main_menu_server">Выделенные серверы</msg>
-      <msg name="main_menu_services">Все услуги</msg>
+      <msg name="main_menu_server">Առանձնացված սերվերներ</msg>
+      <msg name="main_menu_services">Բոլոր ծառայությունները</msg>
       <msg name="main_menu_finance">Финансы и документы</msg>
       <msg name="in_pay">Оплачивается</msg>
       <msg name="go_to_orion">старый интерфейс</msg>
@@ -351,7 +351,7 @@
       <msg name="verifyemail_title">Подтверждение e-mail</msg>
       <msg name="verifyemail_text">E-mail адрес успешно подтвержден. Вы будете получать уведомления в соответствии с настройками вашей подписки</msg>
       <msg name="verifyemail_button">Перейти в личный кабинет</msg>
-      <msg name="select">Выбрать</msg>
+      <msg name="select">Ընտրել</msg>
       <msg name="selected_one">Выбран</msg>
       <msg name="select_all">выбрать все</msg>
       <msg name="unselect_all">отменить выбор</msg>
@@ -1123,12 +1123,12 @@
       <msg name="tech_fields">Технический контакт</msg>
       <msg name="adm_jtitle">должность</msg>
       <msg name="adm_phone">Հեռախոս</msg>
-      <msg name="org_fields">Данные организации</msg>
+      <msg name="org_fields">Կազմակերպության տվյալները</msg>
       <msg name="org_contact_desc">Данные организации необходимы  для сертификатов с повышенным уровнем доверия</msg>
       <msg name="crt_view">Сертификат</msg>
       <msg name="csr_view">Запрос на сертификат</msg>
       <msg name="any_applied">Любое</msg>
-      <msg name="title">SSL-сертификаты</msg>
+      <msg name="title">SSL Սերտիֆիկատներ</msg>
       <msg name="delete">Удалить сертификат</msg>
       <msg name="delete_confirm_msg">Сертификат {{value}} будет удален</msg>
       <msg name="delete_success">Сертификат успешно удален</msg>
@@ -1203,7 +1203,7 @@
       <msg name="contact_name">Անուն</msg>
       <msg name="contact_email">E-mail</msg>
       <msg name="contact_phone">Հեռախոս</msg>
-      <msg name="org_contact">Данные организации</msg>
+      <msg name="org_contact">Կազմակերպության տվյալները</msg>
       <msg name="org_name">Полное название организации</msg>
       <msg name="org_name_desc">как  указано в Свидетельстве о регистрации юридического лица</msg>
       <msg name="org_country">Երկիրը</msg>
@@ -1351,7 +1351,7 @@
       <msg name="ispmgr_link">Ссылка</msg>
       <msg name="ispmgr_access">ISPmanager - панель управления сервером</msg>
       <msg name="ispmgr_desc">На вашем Выделенном сервере установлена панель управления сервером ISPmanager, с помощью которой вы можете управлять пользователями, сайтами, доменами, почтовыми ящиками и множеством других функций.</msg>
-      <msg name="title">Выделенные серверы</msg>
+      <msg name="title">Առանձնացված սերվերներ</msg>
       <msg name="order_button">Заказать выделенный сервер</msg>
       <msg name="valid_until">действует до</msg>
       <msg name="info">Информация</msg>
@@ -1498,8 +1498,8 @@
       <msg name="addition_title">Модули ISPsystem</msg>
       <msg name="softexternal_title">Сторонние лицензии</msg>
       <msg name="row_count">Всего</msg>
-      <msg name="certificate_title">SSL-сертификаты</msg>
-      <msg name="vds_title">Виртуальные серверы</msg>
+      <msg name="certificate_title">SSL Սերտիֆիկատներ</msg>
+      <msg name="vds_title">Վիրտուալ սերվերներ</msg>
       <msg name="ssl_subtitle">защита ваших доменов</msg>
       <msg name="ssl_description"><![CDATA[SSL-сертификаты защищают данные ваших клиентов. Они не позволяют мошенникам украсть пароли, банковские данные, телефоны и др.
         С января 2017 года браузеры начали помечать сайты без SSL сертификатов как "небезопасные".]]></msg>
@@ -1622,7 +1622,7 @@
       <msg name="no_i_dont">нет, я передумал</msg>
     </messages>
     <messages name="_service">
-      <msg name="all_plans">Все услуги</msg>
+      <msg name="all_plans">Բոլոր ծառայությունները</msg>
       <msg name="datacenter">Дата-центр</msg>
       <msg name="payment_success_title">Вашa услуга {{ name }} успешно оплачена, спасибо!</msg>
       <msg name="activated_success_title">Вашa услуга {{ name }} успешно активирована, спасибо!</msg>
@@ -1715,7 +1715,7 @@
       <msg name="payment_modal_title">Оплата виртуального сервера</msg>
       <msg name="root">Доступ</msg>
       <msg name="name">Виртуальный сервер</msg>
-      <msg name="vds_list">Виртуальные серверы</msg>
+      <msg name="vds_list">Վիրտուալ սերվերներ</msg>
       <msg name="order">Заказать виртуальный сервер</msg>
       <msg name="create">Создать виртуальный сервер</msg>
       <msg name="list_name">Название сервера</msg>
@@ -1767,7 +1767,7 @@
       <msg name="check">Ստուգել</msg>
       <msg name="transfer_more_domain">еще домен для переноса</msg>
       <msg name="name">Доменное имя</msg>
-      <msg name="list_title">Домены</msg>
+      <msg name="list_title">Դոմեններ</msg>
       <msg name="list_domain">Домен</msg>
       <msg name="list_zone">Зона</msg>
       <msg name="list_cost">Стоимость</msg>
@@ -1796,7 +1796,7 @@
       <msg name="contact_group_delete_confirm_msg_xx1">{{value}} контакт домена будет удален</msg>
       <msg name="contact_group_delete_success">Выбранные контакты домена были удалены</msg>
       <msg name="contact_list_name">Контакт</msg>
-      <msg name="contact_list_domains">Домены</msg>
+      <msg name="contact_list_domains">Դոմեններ</msg>
       <msg name="contact_list_page_items">контактов</msg>
       <msg name="contact_list_page_items_one">контакт</msg>
       <msg name="contact_list_page_items_few">контакта</msg>
@@ -1819,7 +1819,7 @@
       <msg name="menu_whois">Whois</msg>
       <msg name="menu_history">История</msg>
       <msg name="menu_delete">Удалить домен</msg>
-      <msg name="menu_domain">Домены</msg>
+      <msg name="menu_domain">Դոմեններ</msg>
       <msg name="menu_contact">Контакты доменов</msg>
       <msg name="menu_transfer">Перенос доменов</msg>
       <msg name="paid_up_to">оплачен до</msg>
@@ -1885,7 +1885,7 @@
       <msg name="pay_cost">на {{amount}} {{currency}}</msg>
       <msg name="pay_no_quickorder">Зарегистрировать</msg>
       <msg name="payment_modal_title">Оплата доменов</msg>
-      <msg name="widget_title">Домены</msg>
+      <msg name="widget_title">Դոմեններ</msg>
       <msg name="widget_ns">Сервера имен</msg>
       <msg name="widget_ns_show_all">показать все</msg>
     </messages>
@@ -1919,7 +1919,7 @@
       <msg name="group_delete_success_from_basket_lt5">{{value}} виртуальных дата-центра удалены</msg>
       <msg name="group_delete_success_from_basket_mt5">{{value}} виртуальных дата-центров удалены</msg>
       <msg name="group_delete_success_from_basket_xx1">{{value}} виртуальный дата-центр удален</msg>
-      <msg name="vm-list">Виртуальные серверы</msg>
+      <msg name="vm-list">Վիրտուալ սերվերներ</msg>
       <msg name="vdc-ip-addresses">IP-адреса</msg>
       <msg name="vdc-history">История</msg>
       <msg name="vdc-manual">Инструкция</msg>

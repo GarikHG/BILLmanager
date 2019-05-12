@@ -84,7 +84,7 @@
       <msg name="module_description">Доменные имена</msg>
       <msg name="short_new">Заказать</msg>
       <msg name="hint_new">Заказать домен</msg>
-      <msg name="title">Домены</msg>
+      <msg name="title">Դոմեններ</msg>
       <msg name="hint_status">Текущее состояние домена</msg>
       <msg name="short_open">Обработать</msg>
       <msg name="msg_confirm_sync">Запросить данные у регистратора для</msg>
@@ -189,16 +189,16 @@
       <msg name="title">Заказ доменного имени</msg>
       <msg name="wizard_title">Выбор доменного имени</msg>
       <msg name="domain_name">Доменное имя</msg>
-      <msg name="msg_ok_whois">Проверить</msg>
+      <msg name="msg_ok_whois">Ստուգել</msg>
       <msg name="hint_ok_whois">Проверить доступность доменного имени в выбранных или указанных зонах</msg>
-      <msg name="msg_ok_pricelist">&lt;&lt; Выбор зоны</msg>
+      <msg name="msg_ok_pricelist">&lt;&lt; Դոմեններ</msg>
       <msg name="hint_ok_pricelist">Вернуться к списку тарифных планов</msg>
-      <msg name="msg_select_domain">Выбрать</msg>
-      <msg name="msg_unselect_domain">Выбрано</msg>
-      <msg name="msg_select_pricelist">Выбрать</msg>
-      <msg name="msg_unselect_pricelist">Выбрано</msg>
-      <msg name="msg_register">Зарегистрировать &gt;&gt;</msg>
-      <msg name="msg_transfer">Перенести &gt;&gt;</msg>
+      <msg name="msg_select_domain">Ընտրել</msg>
+      <msg name="msg_unselect_domain">Ընտրված է</msg>
+      <msg name="msg_select_pricelist">Ընտրել</msg>
+      <msg name="msg_unselect_pricelist">Ընտրված է</msg>
+      <msg name="msg_register">Գրանցել &gt;&gt;</msg>
+      <msg name="msg_transfer">Տեղափոխել &gt;&gt;</msg>
       <msg name="hint_register">Указать контактные данные для выбранных доменных имен</msg>
       <msg name="msg_quickbasket">В корзину</msg>
       <msg name="hint_quickbasket">Добавить выбранные домены в корзину</msg>
@@ -276,7 +276,7 @@
       <msg name="provider_ns">Серверы имен провайдера</msg>
       <msg name="hint_provider_ns">Серверы имен, разрешенные к  использованию регистратором. Будут использованы как серверы имен по умолчанию для доменного имени</msg>
       <msg name="hint_custom_tld">Создать новую доменную зону</msg>
-      <msg name="tld_name">Наименование</msg>
+      <msg name="tld_name">Անուն</msg>
       <msg name="hint_tld_name">Наименование домена верхнего уровня</msg>
       <msg name="tld_whois_host">Хост whois</msg>
       <msg name="hint_tld_whois_host">Доменное имя сервиса получения информации о домене</msg>
@@ -336,9 +336,9 @@
       <include name="service"/>
       <msg name="title">Виртуальные выделенные серверы</msg>
       <msg name="domain">Доменное имя</msg>
-      <msg name="hint_domain">Наименование</msg>
+      <msg name="hint_domain">Անուն</msg>
       <msg name="ostempl">Шаблон ОС</msg>
-      <msg name="serverid">Наименование</msg>
+      <msg name="serverid">Անուն</msg>
       <msg name="hint_serverid">Наименование сервера в панели управления</msg>
       <msg name="processingnode">Узел кластера</msg>
       <msg name="rack">Номер стойки</msg>
@@ -387,9 +387,9 @@
       <include name="changedisk_include"/>
     </messages>
     <messages name="desktop">
-      <msg name="menu_vds">Виртуальные серверы</msg>
+      <msg name="menu_vds">Վիրտուալ սերվերներ</msg>
       <msg name="menu_soft">Лицензии ISPsystem</msg>
-      <msg name="menu_dedic">Выделенные серверы</msg>
+      <msg name="menu_dedic">Առանձնացված սերվերներ</msg>
       <msg name="menu_addition">Модули ISPsystem</msg>
       <msg name="menu_softexternal">Сторонние лицензии</msg>
       <msg name="menu_sitebuilder">Конструктор сайтов</msg>
@@ -413,7 +413,7 @@
       <msg name="menu_account">Клиенты</msg>
       <msg name="menu_mainmenuaccount">Клиенты</msg>
       <msg name="menu_user">Пользователи</msg>
-      <msg name="menu_vhost">Виртуальный хостинг</msg>
+      <msg name="menu_vhost">Վիրտուալ հոսթինգներ</msg>
       <msg name="menu_storage">Внешнее FTP хранилище</msg>
       <msg name="menu_mainmenuservice">Товары/Услуги</msg>
       <msg name="menu_marketing">Маркетинг</msg>
@@ -458,7 +458,7 @@
       <msg name="menu_subaccount">Лицевые счета</msg>
       <msg name="menu_profile">Плательщики</msg>
       <msg name="menu_mainmenutool">Инструменты</msg>
-      <msg name="menu_certificate">SSL-сертификаты</msg>
+      <msg name="menu_certificate">SSL Սերտիֆիկատներ</msg>
       <msg name="menu_clientoption">Профиль</msg>
       <msg name="menu_user.edit">Добавить пользователя</msg>
       <msg name="menu_profile.add">Добавить плательщика</msg>
@@ -473,12 +473,12 @@
       <msg name="menu_blacklist">Блокировка регистрации</msg>
       <msg name="menu_docflow_connection">Документооборот</msg>
       <msg name="menu_runningoperation">Текущие операции</msg>
-      <msg name="menu_domain">Домены</msg>
+      <msg name="menu_domain">Դոմեններ</msg>
       <msg name="menu_tld">Домены верхнего уровня</msg>
       <msg name="menu_notifytask">Очередь уведомлений</msg>
       <msg name="menu_service_profile">Контакты доменов</msg>
       <msg name="menu_enumeration">Перечисления</msg>
-      <msg name="menu_datacenter">Дата-центры</msg>
+      <msg name="menu_datacenter">Տվյալների բազաներ</msg>
       <msg name="menu_support_setting">Настройки</msg>
       <msg name="menu_ticket_schedule">Регламент</msg>
       <msg name="menu_abuse_task">Список нарушений</msg>
@@ -518,7 +518,7 @@
       <msg name="menu_payment.recurring.settings">Автоплатеж</msg>
       <msg name="menu_billmgr.backup">Резервное копирование</msg>
       <msg name="tip_project">Нажмите для входа в личный кабинет другого провайдера</msg>
-      <msg name="msg_trial">Вы используете бесплатную версию. Ограничение - 50 клиентов</msg>
+      <msg name="msg_trial">Դուք օգտագործում եք անվճար տարբերակը: Սահմանափակում - 50 հաճախորդ</msg>
       <msg name="guest">Հյուր</msg>
       <msg name="register">Գրանցում</msg>
       <msg name="login">Մուտք</msg>
@@ -572,7 +572,7 @@
     </messages>
     <messages name="vds.filter">
       <msg name="domain">Домен</msg>
-      <msg name="serverid">Наименование</msg>
+      <msg name="serverid">Անուն</msg>
       <include name="uniservice.filter"/>
       <msg name="ostemplate">Шаблон ОС</msg>
       <msg name="hint_ostemplate">Шаблон ОС, выбранный для услуги</msg>
@@ -790,7 +790,7 @@
       <msg name="msg_error_checkparam_item_user_notfound">При проверке параметров в панели управления не был найден пользователь '__username__'</msg>
       <msg name="msg_error_checkparam_item_notfound">При проверке параметров услуги с идентификатором в панели управления '__panelid__' обнаружены проблемы: не соответствуют значения параметра '__param__' (значение в панели управления - '__panel_value__'; в BILLmanager 5 - '__billmgr_value__')</msg>
       <msg name="msg_error_profiletype_count">Максимальное количество плательщиков с типом '__profiletype__': __limit__. Вы превысили это значение. Вы можете использовать ранее созданного плательщика или попробовать создать плательщика с другим типом. Если этот вариант вам не подходит, обратитесь в техническую поддержку.</msg>
-      <msg name="item_name">Наименование</msg>
+      <msg name="item_name">Անուն</msg>
       <msg name="item_user">Имя пользователя</msg>
       <msg name="item_domain">Доменное имя</msg>
       <msg name="item_hostname">Доменное хоста</msg>
@@ -885,29 +885,29 @@
       <msg name="hint_passport_org">Организация, выдавшая документ. Например: УФМС России по г. Москве</msg>
       <msg name="placeholder_passport_org">УФМС России по г. Москве</msg>
       <msg name="hint_name">Название профиля используется для упрощения идентификации его в списке профилей услуг</msg>
-      <msg name="company_locale">Наименование компании</msg>
-      <msg name="placeholder_company_locale">АО "Компания"</msg>
+      <msg name="company_locale">Կազմակերպության անվանումը</msg>
+      <msg name="placeholder_company_locale">«Ընկերություն» ՍՊԸ</msg>
       <msg name="hint_company_locale">Наименование компании в виде, в котором оно указано в учредительских документах. Например: Акционерное общество "Компания"</msg>
       <msg name="firstname_locale">Անուն</msg>
-      <msg name="placeholder_firstname_locale">Иван</msg>
+      <msg name="placeholder_firstname_locale">Հովհաննես</msg>
       <msg name="hint_firstname_locale">Имя контактного лица, как указано в документе, удостоверяющем личность. Например: Иван</msg>
       <msg name="middlename_locale">Հայրանուն</msg>
-      <msg name="placeholder_middlename_locale">Иванович</msg>
+      <msg name="placeholder_middlename_locale">Հովհաննեսի</msg>
       <msg name="hint_middlename_locale">Отчество контактного лица, как указано в документе, удостоверяющем личность. Например: Иванович</msg>
       <msg name="lastname_locale">Ազգանուն</msg>
-      <msg name="placeholder_lastname_locale">Иванов</msg>
+      <msg name="placeholder_lastname_locale">Հովհաննիսյան</msg>
       <msg name="hint_lastname_locale">Фамилия контактного лица, как указано в документе, удостоверяющем личность. Например: Иванов</msg>
-      <msg name="company">Наименование компании (EN)</msg>
-      <msg name="placeholder_company">AO "Company"</msg>
-      <msg name="hint_company">Наименование компании на английском языке. Например: AO "Company"</msg>
+      <msg name="company">Կազմակերպության անվանումը (EN)</msg>
+      <msg name="placeholder_company">"Company" LLC</msg>
+      <msg name="hint_company">Ընկերության անվանումը անգլերենով: Օրինակ` "Company" LLC</msg>
       <msg name="firstname">Անուն (EN)</msg>
-      <msg name="placeholder_firstname">Ivan</msg>
+      <msg name="placeholder_firstname">Hovhannes</msg>
       <msg name="hint_firstname">Имя контактного лица на английском языке. Например: Ivan</msg>
       <msg name="middlename">Հայրանուն (EN)</msg>
-      <msg name="placeholder_middlename">Ivanovich</msg>
+      <msg name="placeholder_middlename">Hovhannesi</msg>
       <msg name="hint_middlename">Отчество контактного лица на английском языке. Например: Ivanovich</msg>
       <msg name="lastname">Ազգանուն (EN)</msg>
-      <msg name="placeholder_lastname">Ivanov</msg>
+      <msg name="placeholder_lastname">Hovhannisyan</msg>
       <msg name="hint_lastname">Фамилия контактного лица на английском языке. Например: Ivanov</msg>
       <msg name="placeholder_email">email@example.com</msg>
       <msg name="hint_email">Email адрес контактного лица</msg>
@@ -923,30 +923,30 @@
       <msg name="location_country">Երկիրը</msg>
       <msg name="hint_location_country">Страна адреса нахождения контакта. Значение необходимо выбрать из представленного списка</msg>
       <msg name="location_state">Տարածաշրջան</msg>
-      <msg name="placeholder_location_state">Москва</msg>
+      <msg name="placeholder_location_state">Երևան</msg>
       <msg name="hint_location_state">Регион адреса нахождения контакта. Например: Москва</msg>
       <msg name="location_postcode">Ինդեքս</msg>
       <msg name="placeholder_location_postcode">101000</msg>
       <msg name="hint_location_postcode">Индекс адреса нахождения контакта. Например: 101000</msg>
       <msg name="location_city">Քաղաք</msg>
-      <msg name="placeholder_location_city">Москва</msg>
+      <msg name="placeholder_location_city">Երևան</msg>
       <msg name="hint_location_city">Укажите город контактного лица. Например: Москва</msg>
       <msg name="location_address">Հասցե</msg>
-      <msg name="placeholder_location_address">1-я улица, д. 1, кв. 1</msg>
+      <msg name="placeholder_location_address">1-ին փողոց, 1-ին շենք, բն. 1</msg>
       <msg name="hint_location_address">Адрес нахождения контакта - улица, дом, корпус, квартира/офис. Например: 1-я улица, д. 1, кв. 1</msg>
       <msg name="postal_country">Երկիրը</msg>
       <msg name="hint_postal_country">Страна почтового адреса контакта. Значение необходимо выбрать из представленного списка</msg>
       <msg name="postal_state">Տարածաշրջան</msg>
-      <msg name="placeholder_postal_state">Москва</msg>
+      <msg name="placeholder_postal_state">Երևան</msg>
       <msg name="hint_postal_state">Регион почтового адреса контакта. Например: Москва</msg>
       <msg name="postal_postcode">Ինդեքս</msg>
       <msg name="placeholder_postal_postcode">101000</msg>
       <msg name="hint_postal_postcode">Индекс почтового адреса контакта. Например: 101000</msg>
       <msg name="postal_city">Քաղաք</msg>
-      <msg name="placeholder_postal_city">Москва</msg>
+      <msg name="placeholder_postal_city">Երևան</msg>
       <msg name="hint_postal_city">Укажите город контакта. Например: Москва</msg>
       <msg name="postal_address">Հասցե</msg>
-      <msg name="placeholder_postal_address">1-я улица, д. 1, кв. 1</msg>
+      <msg name="placeholder_postal_address">1-ին փողոց, 1-ին շենք, բն. 1</msg>
       <msg name="hint_postal_address">Почтовый адрес контакта - улица, дом, корпус, квартира/офис. Например: 1-я улица, д. 1, кв. 1</msg>
       <msg name="postal_addressee">Получатель</msg>
       <msg name="placeholder_postal_addressee">Иванову И. И.</msg>
@@ -959,7 +959,7 @@
       <msg name="hint_ogrn">Основной государственный регистрационный номер организации</msg>
       <msg name="location_info">Կոնտակտային անձի հասցեն</msg>
       <msg name="additional_info">Дополнительно</msg>
-      <msg name="company_info">Данные организации</msg>
+      <msg name="company_info">Կազմակերպության տվյալները</msg>
       <msg name="contact_info">Կոնտակտային անձի տվյալները</msg>
       <msg name="postal_info">Փոստային հասցե</msg>
       <msg name="contact_select">Օգտագործել կոնտակտը</msg>
@@ -1041,7 +1041,7 @@
       <msg name="csr_fields">Данные запроса</msg>
       <msg name="altnames">Дополнительные домены</msg>
       <msg name="field_country">Երկիրը</msg>
-      <msg name="hint_field_country">Выберите страну из списка</msg>
+      <msg name="hint_field_country">Ընտրեք երկիրը ցանկից</msg>
       <msg name="ST">Տարածաշրջան</msg>
       <msg name="placeholder_ST">Moscow</msg>
       <msg name="hint_ST">Укажите регион - область, край, республика, город федерального значения и т.д. Допускается использование только символов латиницы</msg>
@@ -1122,7 +1122,7 @@
     </messages>
     <messages name="label_organization_fields">
       <msg name="org_description">Данные организации требуются для выпуска сертификатов с повышенным уровнем доверия. Для подтверждения данных может потребоваться отправка копий учредительных документов в удостоверяющий центр</msg>
-      <msg name="org_name">Наименование</msg>
+      <msg name="org_name">Անուն</msg>
       <msg name="org_country">Երկիրը</msg>
       <msg name="org_state">Տարածաշրջան</msg>
       <msg name="org_city">Город или местность</msg>
@@ -1143,7 +1143,7 @@
       <msg name="hint_org_address">Адрес организации. Допускается использование латинского алфавита</msg>
       <msg name="hint_org_phone">Телефон организации в международном формате</msg>
       <msg name="msg_error_value_org_country">Поле обязательно для заполнения</msg>
-      <msg name="org_fields">Данные организации</msg>
+      <msg name="org_fields">Կազմակերպության տվյալները</msg>
     </messages>
     <messages name="certificate">
       <msg name="module_description">SSL-сертификаты - это цифровое удостоверение вашего сайта для создания защищенного соединения по протоколу SSL между web-сервером и браузером. Протокол SSL позволяет шифровать всю информацию, передаваемую между сайтом и клиентскими программами.</msg>
@@ -1168,7 +1168,7 @@
       <msg name="short_reissue">Перевыпуск</msg>
       <msg name="hint_reissue">Перевыпуск сертификата</msg>
       <msg name="hint_reissue_disabled">Перевыпуск сертификата невозможен</msg>
-      <msg name="short_sync">Проверить</msg>
+      <msg name="short_sync">Ստուգել</msg>
       <msg name="hint_sync_disabled">Получение статуса сертификата недоступно</msg>
       <msg name="hint_delete">Удалить выделенные записи</msg>
       <msg name="CN">Домен</msg>
@@ -1309,7 +1309,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_approver_email">Выберите Email адрес, на который будет отправлено письмо с данными подтверждения владельца домена</msg>
     </messages>
     <messages name="certificate.order.organization">
-      <msg name="wizard_title">Данные организации</msg>
+      <msg name="wizard_title">Կազմակերպության տվյալները</msg>
       <msg name="title">Заказ SSL сертификата</msg>
       <include name="service.edit"/>
       <include name="org_field_inc"/>
@@ -1472,8 +1472,8 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="vhost">
       <include name="service"/>
-      <msg name="title">Виртуальный хостинг</msg>
-      <msg name="hint_domain">Наименование</msg>
+      <msg name="title">Վիրտուալ հոսթինգներ</msg>
+      <msg name="hint_domain">Անուն</msg>
       <msg name="msg_help_links">&lt;a href="https://docs.ispsystem.com/pages/viewpage.action?pageId=25371815" target="_blank"&gt;Организация Хостинга: Виртуальный хостинг&lt;/a&gt;</msg>
       <msg name="module_description">Виртуальный хостинг - это вид хостинга, при котором множество веб-сайтов расположено на одном сервере. Данные вид вид хостинга подходит для небольших проектов и статичных сайтов</msg>
     </messages>
@@ -1584,7 +1584,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="dedic">
       <include name="service"/>
-      <msg name="title">Выделенные серверы</msg>
+      <msg name="title">Առանձնացված սերվերներ</msg>
       <msg name="domain">Доменное имя</msg>
       <msg name="ostempl">Шаблон ОС</msg>
       <msg name="module_description">Выделенный сервер - услуга подходит тем, кому для проектов недостаточно мощности виртуального выделенного сервера. Выделенный сервер - это мощный компьютер, установленный на специальной технологической площадке, на который можно установить любое количество сайтов, виртуальных серверов или любых других программ.</msg>
@@ -1769,7 +1769,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="ip_name">IP-адрес</msg>
       <msg name="ip_hint">IP-адрес</msg>
       <msg name="domain_name">Доменное имя</msg>
-      <msg name="serverid_name">Наименование</msg>
+      <msg name="serverid_name">Անուն</msg>
       <msg name="serverid_hint">Наименование сервера в панели управления</msg>
       <msg name="password_name">Пароль</msg>
       <msg name="password_hint">Пароль доступа к серверу. Для *nix и *bsd операционных систем это пароль пользователя root, для Windows пароль администратора</msg>
@@ -1849,7 +1849,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     <messages name="sitebuilder">
       <include name="service"/>
       <msg name="title">Конструктор сайтов</msg>
-      <msg name="hint_domain">Наименование</msg>
+      <msg name="hint_domain">Անուն</msg>
       <msg name="short_siteprodomain">Домен</msg>
       <msg name="short_openbuilder">Конструктор</msg>
       <msg name="hint_openbuilder">Открыть конструктор сайтов</msg>
@@ -2058,7 +2058,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="list_subaccount_annually_expense">Годовой оборот (расходы)</msg>
       <msg name="list_subaccount_active">Состояние</msg>
       <msg name="list_service_item">Код услуги</msg>
-      <msg name="list_service_name">Наименование</msg>
+      <msg name="list_service_name">Անուն</msg>
       <msg name="list_service_pricelist">Тариф</msg>
       <msg name="list_service_location">Размещение</msg>
       <msg name="list_service_status">Статус</msg>
@@ -2845,7 +2845,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="message">Сообщение</msg>
       <msg name="item_list">Список затронутых услуг</msg>
       <msg name="list_id">Id услуги</msg>
-      <msg name="list_name">Наименование</msg>
+      <msg name="list_name">Անուն</msg>
       <msg name="empty_end_datetime">Уточняется</msg>
       <msg name="timezone">Время указано по часовому поясу</msg>
     </messages>
@@ -3269,7 +3269,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_project">Провайдер, для которого доступен шлюз</msg>
       <msg name="module">Тип шлюза</msg>
       <msg name="hint_module">Тип шлюза</msg>
-      <msg name="short_test">Проверить</msg>
+      <msg name="short_test">Ստուգել</msg>
       <msg name="hint_test">Проверка отправки сообщения выбранным шлюзом</msg>
       <msg name="gateway_type">Назначение шлюза</msg>
       <include name="gateway_include"/>
@@ -3285,7 +3285,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_notify_module">Тип уведомлений</msg>
       <msg name="gateway_module">Тип шлюза</msg>
       <msg name="hint_gateway_module">Тип шлюза</msg>
-      <msg name="msg_add">Выбрать</msg>
+      <msg name="msg_add">Ընտրել</msg>
       <msg name="progress_loading">Загрузка...</msg>
       <msg name="progress_add">Устанавливаю модуль и перезапускаю панель</msg>
       <include name="include.notify"/>
@@ -3432,7 +3432,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_modulename">Тип шлюза проверки номеров телефонов клиентов</msg>
       <msg name="gate_modulename">Модуль шлюза</msg>
       <msg name="hint_gate_modulename">Модуль СМС шлюза, который будет использоваться для отправки СМС</msg>
-      <msg name="msg_add">Выбрать</msg>
+      <msg name="msg_add">Ընտրել</msg>
     </messages>
     <messages name="fraud_gateway.create.param">
       <msg name="title">Параметры шлюза</msg>
@@ -3510,7 +3510,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="title">Проверка номера телефона</msg>
       <msg name="wizard_title">Ввод проверочного кода</msg>
       <msg name="code">Проверочный код</msg>
-      <msg name="msg_finish">Проверить</msg>
+      <msg name="msg_finish">Ստուգել</msg>
       <msg name="phone">Номер телефона</msg>
       <msg name="hint_phone">Номер телефона, на который был отправлен проверочный код</msg>
       <msg name="hint_code">Укажите проверочный код, полученный на предыдущем шаге</msg>
@@ -3667,7 +3667,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_project">Провайдер услуг</msg>
       <msg name="currency">Валюта</msg>
       <msg name="hint_currency">Валюта, которую необходимо использовать в отчете</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="msg_ok">Показать отчет</msg>
     </messages>
     <messages name="reportlist">
@@ -4733,7 +4733,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="location_postcode">Ինդեքս</msg>
       <msg name="location_state">Տարածաշրջան</msg>
       <msg name="middlename">Հայրանուն (EN)</msg>
-      <msg name="middlename_locale">Հայրանուն</msg>
+      <msg name="middlename_locale">Հայրանունի</msg>
       <msg name="fax">Ֆաքս</msg>
       <msg name="fax_country_name">Ֆաքս երկիր</msg>
       <msg name="mobile">Сотовый телефон</msg>
@@ -4995,7 +4995,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="reward">Процентная ставка</msg>
       <msg name="name">Тип услуг</msg>
       <msg name="amount">Сумма дохода</msg>
-      <msg name="default_name">Все услуги</msg>
+      <msg name="default_name">Բոլոր ծառայությունները</msg>
       <msg name="hint_reward">Процент от расходов реферала</msg>
       <msg name="hint_name">Наименование типа услуг</msg>
       <msg name="hint_cdate">Дата дохода</msg>
@@ -5413,13 +5413,13 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_attitude">Характеристика клиента</msg>
       <msg name="hint_project">Провайдер, к которому будет привязан клиент</msg>
       <msg name="hint_currency">Валюта, в которой клиент будет производить расчеты</msg>
-      <msg name="list_products_id">Код</msg>
-      <msg name="list_products_name">Наименование</msg>
+      <msg name="list_products_id">Կոդ</msg>
+      <msg name="list_products_name">Անուն</msg>
       <msg name="list_products_project">Провайдер</msg>
       <msg name="list_products_pricelist">Тариф</msg>
       <msg name="list_products_status">Состояние</msg>
       <msg name="list_products_cost">Стоимость</msg>
-      <msg name="list_balance_id">Код</msg>
+      <msg name="list_balance_id">Կոդ</msg>
       <msg name="list_balance_project">Провайдер</msg>
       <msg name="list_balance_balance">Баланс</msg>
       <msg name="list_balance_annually">Годовой оборот (платежи)</msg>
@@ -5451,7 +5451,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="account.filter">
       <msg name="hint_account">Наименование клиента</msg>
-      <msg name="account">Наименование</msg>
+      <msg name="account">Անուն</msg>
       <msg name="active_item">Активные услуги</msg>
       <msg name="active_item_0">Есть активные услуги</msg>
       <msg name="active_item_1">Нет активных услуг</msg>
@@ -5716,7 +5716,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_user_name">Логин для входа</msg>
       <msg name="hint_validphone">Номер контактного телефона пользователя. Обратите внимание: чтобы использовать новый номер телефона как проверенный, Вам необходимо обратиться с запросом в техническую поддержку и подтвердить данные владельца аккаунта.</msg>
       <msg name="placeholder_user_name">user</msg>
-      <msg name="profile_name">Наименование</msg>
+      <msg name="profile_name">Անուն</msg>
       <msg name="hint_profile_name">Наименование плательщика</msg>
       <msg name="contract">Дополнительная информация</msg>
       <msg name="profilepage">Настройки плательщика</msg>
@@ -5839,7 +5839,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="wizard_title">Выбор страны</msg>
       <msg name="title">Создание плательщика</msg>
       <msg name="country">Երկիրը</msg>
-      <msg name="hint_country">Выберите страну</msg>
+      <msg name="hint_country">Ընտրեք երկիրը</msg>
       <msg name="profiletype">Վճարողի կարգավիճակը</msg>
       <msg name="hint_profiletype">Վճարողի իրավական կարգավիճակը</msg>
     </messages>
@@ -8756,10 +8756,10 @@ List-Subscribe: &lt;url&gt;
 Теперь раз в сутки синхронизируется доменное имя у IP-адресов для услуг выделенный сервер и виртуальный сервер. Доменное имя берется из панели управления.</msg>
       <msg name="25678">Скидка на стоимость установки
 Исправлена ошибка работы спец цены на стоимость установки</msg>
-      <msg name="25396">Дата-центры
-Дата-центры добавлены в версию Advanced</msg>
-      <msg name="25663">Активация клиента
-Устранена проблема с активацией клиента из формы редактирования.</msg>
+      <msg name="25396">Տվյալների բազաները
+Տվյալների բազաները ավելացված են առաջադեմ տարբերակով</msg>
+      <msg name="25663">Հաճախորդի ակտիվացում
+Հաճախորդի ակտիվացման խնդիրը խմբագրման ձևաչափից։</msg>
       <msg name="25615">Маска телефона
 Исправлены ошибки заказа доменов и сертификатов, возникающие при использовании маски телефона</msg>
       <msg name="25680">Маска телефона
@@ -9028,7 +9028,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="info">После нажатия "ОК" набор параметров и их настрройки будут сброшеные на значения по умолчанию для страны "__country__". Хотите продолжить?</msg>
     </messages>
     <messages name="country.profileparam">
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="msg_confirm_delete">Вы действительно хотите удалить параметр </msg>
       <msg name="title">Параметры плательщиков и компаний</msg>
       <include name="label_profile"/>
@@ -9049,7 +9049,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Параметр</msg>
       <msg name="manual_validate_not_required">Не требуется для верификации</msg>
       <msg name="hint_manual_validate_not_required">Флаг отключает требование заполнения параметра для ручной верификации плательщика</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="hint_name">Наименование параметра</msg>
       <msg name="readonly_client">Клиент не может изменить после оплаты</msg>
       <msg name="hint_readonly_client">Установите флаг, если необходимо запретить изменение значения поля клиентом, после того как он уже совершил платеж</msg>
@@ -9084,15 +9084,15 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_new">Создать</msg>
       <msg name="id">Id</msg>
       <msg name="hint_id">Уникальный идентификатор</msg>
-      <msg name="locale_name">Наименование</msg>
-      <msg name="hint_locale_name">Наименование</msg>
+      <msg name="locale_name">Անուն</msg>
+      <msg name="hint_locale_name">Անուն</msg>
       <msg name="iso">ISO код</msg>
       <msg name="hint_iso">ISO код региона</msg>
     </messages>
     <messages name="country.state.edit">
       <msg name="title">Редактирование региона</msg>
       <msg name="title_new">Добавление региона</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="hint_name">Наименование региона</msg>
       <msg name="iso">ISO код</msg>
       <msg name="hint_iso">ISO код региона</msg>
@@ -9769,10 +9769,10 @@ List-Subscribe: &lt;url&gt;
       <msg name="module_description">Модуль локализации позволяет настроить набор языков на которых можно указывать наименования различных элементов, формировать документы и т.д.</msg>
       <msg name="title">Տեղայնացում</msg>
       <msg name="msg_confirm_delete">Вы действительно хотите удалить локализацию</msg>
-      <msg name="langcode">Код</msg>
+      <msg name="langcode">Կոդ</msg>
       <msg name="hint_p_embedded_on">Встроенная локализация</msg>
       <msg name="hint_p_default_lang_on">Локализация по умолчанию</msg>
-      <msg name="short_setdefault">По умолчанию</msg>
+      <msg name="short_setdefault">Լռելյայն</msg>
       <msg name="hint_setdefault">Выставить локаль по умолчанию</msg>
       <msg name="hint_p_active_on">Локализация активна</msg>
       <msg name="hint_p_active_off">Локализация не используется</msg>
@@ -9826,8 +9826,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Отношения валют</msg>
       <msg name="short_rate">Курс</msg>
       <msg name="hint_rate">Динамика курса валюты по отношению к выбранной</msg>
-      <msg name="relate">Наименование</msg>
-      <msg name="iso">Код</msg>
+      <msg name="relate">Անուն</msg>
+      <msg name="iso">Կոդ</msg>
       <msg name="date">Дата последнего обновления</msg>
       <msg name="amount">Количество</msg>
       <msg name="rate">Текущий курс</msg>
@@ -10004,23 +10004,23 @@ List-Subscribe: &lt;url&gt;
       <msg name="table_item">Услуга</msg>
       <msg name="table_payment">Платеж</msg>
       <msg name="table_invoice">Акт выполненых работ</msg>
-      <msg name="account.name">наименование</msg>
+      <msg name="account.name">Անուն</msg>
       <msg name="account.label">метка</msg>
       <msg name="user.realname">ФИО</msg>
       <msg name="user.email">email</msg>
       <msg name="user.name">имя пользователя</msg>
       <msg name="employee.name">имя пользователя</msg>
-      <msg name="department.name">наименование</msg>
+      <msg name="department.name">Անուն</msg>
       <msg name="user.phone">номер телефона</msg>
-      <msg name="profile.name">наименование</msg>
+      <msg name="profile.name">Անուն</msg>
       <msg name="profile.person">контактное лицо</msg>
       <msg name="profile.email">email</msg>
       <msg name="profile.phone">номер телефона</msg>
       <msg name="profile.vatnum">ИНН</msg>
       <msg name="profile.id1c">код бухгалтерской системы</msg>
-      <msg name="item.id">код</msg>
-      <msg name="item.name">наименование</msg>
-      <msg name="payment.id">код</msg>
+      <msg name="item.id">Կոդ</msg>
+      <msg name="item.name">Անուն</msg>
+      <msg name="payment.id">Կոդ</msg>
       <msg name="payment.number">номер</msg>
       <msg name="invoice.number">номер</msg>
       <msg name="ip.name">Հասցե</msg>
@@ -10034,11 +10034,11 @@ List-Subscribe: &lt;url&gt;
       <msg name="table_contract">Договор</msg>
       <msg name="table_employee">Сотрудник</msg>
       <msg name="table_department">Отдел</msg>
-      <msg name="ticket.id">код</msg>
+      <msg name="ticket.id">Կոդ</msg>
       <msg name="itemparam.value">значение</msg>
       <msg name="subaccount.id">код счета</msg>
       <msg name="contract.number">номер</msg>
-      <msg name="account.id">код</msg>
+      <msg name="account.id">Կոդ</msg>
       <msg name="no_item">не привязан к услуге</msg>
       <include name="service_status"/>
       <include name="common"/>
@@ -10051,13 +10051,13 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_ticket">Написать запрос клиенту</msg>
       <msg name="processingnode">Узел кластера</msg>
       <msg name="hint_processingnode">Узел кластера, на которой размещены услуги клиентов</msg>
-      <msg name="country_null">-- выберите страну --</msg>
-      <msg name="ticketexpense"> Услуга технической поддержки по запросу №__ticket__</msg>
+      <msg name="country_null">-- ընտրեք երկիրը --</msg>
+      <msg name="ticketexpense"> Տեխնիկական սպասարկման ծառայություն` №__ticket__</msg>
       <msg name="percent">%</msg>
       <msg name="pricelist">Тариф</msg>
       <msg name="intname">Внутреннее наименование</msg>
       <msg name="hint_intname">Внутреннее (служебное) наименование</msg>
-      <msg name="locale_name">Наименование</msg>
+      <msg name="locale_name">Անուն</msg>
       <msg name="hint_locale_name">Локализованное наименование</msg>
       <msg name="link">Регистрация пользователя</msg>
       <msg name="currency">Валюта</msg>
@@ -10074,9 +10074,9 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_project">Наименование провайдера</msg>
       <msg name="id">Id</msg>
       <msg name="hint_id">Уникальный идентификатор</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="password">Пароль</msg>
-      <msg name="hint_name">Наименование</msg>
+      <msg name="hint_name">Անուն</msg>
       <msg name="msg_confirm_setfilter">Установить фильтр по</msg>
       <msg name="short_setfilter">По клиенту</msg>
       <msg name="hint_setfilter">Установить фильтр по клиенту</msg>
@@ -10495,7 +10495,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_content">Шаблон сообщения в формате xslt или ejs</msg>
       <include name="include.notice"/>
       <msg name="hint_project">Выберите провайдера, которым будет использоваться данный шаблон</msg>
-      <msg name="name2">Наименование</msg>
+      <msg name="name2">Անուն</msg>
       <msg name="short_try">Испытать</msg>
       <msg name="hint_try">Перед проверкой шаблона его необходимо сохранить</msg>
       <msg name="msg_save">Сохранить</msg>
@@ -11035,7 +11035,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_name">Наименование тарифного плана</msg>
       <msg name="hint_itemtype">Тип продукта создаваемого тарифного плана</msg>
       <msg name="placeholder_name">Надежный хостинг</msg>
-      <msg name="msg_add">Выбрать</msg>
+      <msg name="msg_add">Ընտրել</msg>
       <msg name="activate">Активировать после создания</msg>
       <msg name="hint_project">Провайдер тарифного плана</msg>
       <msg name="hint_activate">Тариф будет активирован сразу после создания. Если требуются дополнительные настройки тарифного плана или его дополнений, рекомендуется выключение опции и ручная активация тарифного плана по окончанию его настройки</msg>
@@ -11046,7 +11046,7 @@ List-Subscribe: &lt;url&gt;
     <messages name="pricelist.add.step2">
       <msg name="wizard_title">Параметры тарифного плана</msg>
       <msg name="title">Создание тарифного плана</msg>
-      <msg name="tld_name">Наименование</msg>
+      <msg name="tld_name">Անուն</msg>
       <include name="pricelist.edit"/>
       <msg name="opennotify">Шаблон уведомления об открытии услуги</msg>
       <msg name="hint_opennotify">Шаблон уведомления об открытии услуги</msg>
@@ -11558,7 +11558,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="type">Тип продукта</msg>
       <msg name="hint_type">Выберите модуль обработки. Это может быть панель управления, регистратор доменов или скрипт</msg>
       <msg name="hint_itemtype">Выберите тип продукта, для которого будет использоваться модуль обработки</msg>
-      <msg name="msg_add">Выбрать</msg>
+      <msg name="msg_add">Ընտրել</msg>
       <include name="label_processing_modules"/>
     </messages>
     <messages name="processing.add.module">
@@ -11723,8 +11723,8 @@ List-Subscribe: &lt;url&gt;
       <include name="service"/>
       <msg name="short_edit">Назначить</msg>
       <msg name="hint_edit">Назначить услугу клиенту</msg>
-      <msg name="item_name">Наименование</msg>
-      <msg name="hint_item_name">Наименование</msg>
+      <msg name="item_name">Անուն</msg>
+      <msg name="hint_item_name">Անուն</msg>
       <msg name="title">Импорт услуг</msg>
       <msg name="short_Загрузить">Создать</msg>
       <msg name="hint_Загрузить">Получить список услуги из панели управления или от провайдера услуг</msg>
@@ -11958,7 +11958,7 @@ List-Subscribe: &lt;url&gt;
     </messages>
     <messages name="phone_country_include">
       <msg name="phone_country">Երկիրը</msg>
-      <msg name="hint_phone_country">Выберите страну</msg>
+      <msg name="hint_phone_country">Ընտրեք երկիրը</msg>
     </messages>
     <messages name="avatar_include">
       <msg name="basic">Основные настройки</msg>
@@ -12325,7 +12325,7 @@ List-Subscribe: &lt;url&gt;
     </messages>
     <messages name="company.contract.itemtype">
       <msg name="title">Типы продуктов для договора</msg>
-      <msg name="hint_name">Наименование</msg>
+      <msg name="hint_name">Անուն</msg>
     </messages>
     <messages name="company.edit">
       <msg name="placeholder_name">ISPsystem LTD</msg>
@@ -12387,7 +12387,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_nextnum_payment">Следующий порядковый номер платежа, получаетелем которого является компания. Учитывается только при условии заполнения шаблона номера счета и не заполненном шаблоне у метода оплаты</msg>
       <msg name="hint_numtmpl_invoice">Шаблон формирования номера акта, можно использовать макросы {id} - код акта и {num} - порядковый номер акта, выписанного от имени компании. При отсутствии обоих макросов в шаблоне номера счета к шаблону будет добавлен макрос {num}</msg>
       <msg name="hint_nextnum_invoice">Следующий порядковый номер акта, выписанного от имени компании. Учитывается только при условии заполнения шаблона номера акта</msg>
-      <msg name="hint_name">Наименование компании</msg>
+      <msg name="hint_name">Կազմակերպության անվանումը</msg>
       <msg name="payment_description">Назначение авансового платежа</msg>
       <msg name="hint_payment_description">Будет отображаться в качестве наименования авансового платежа в списке платежей</msg>
       <msg name="doctmpl_reconciliation">Шаблон акта сверки</msg>
@@ -12608,7 +12608,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="cpuusage_cl_name">Максимальная загрузка процессора (CloudLinux)</msg>
       <msg name="ipv6_name">IPv6-адреса</msg>
       <msg name="ip_name">Публичные IPv4-адреса</msg>
-      <msg name="vhost_name">Виртуальный хостинг</msg>
+      <msg name="vhost_name">Վիրտուալ հոսթինգներ</msg>
       <msg name="privateip_name">Приватный IPv4-адреса</msg>
       <msg name="net_name">IPv4-сеть</msg>
       <msg name="netv6_name">IPv6-сеть</msg>
@@ -12650,7 +12650,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="vpntunnel_hint">Количество VPN-туннелей</msg>
       <msg name="certificate_name">SSL сертификат</msg>
       <msg name="paidsupport_name">Поддержка по обращениям</msg>
-      <msg name="domain_name">Домены</msg>
+      <msg name="domain_name">Դոմեններ</msg>
       <msg name="soft_name">Лицензии ISPsystem</msg>
       <msg name="vdc_name">Виртуальный дата-центр</msg>
       <msg name="vdcbackup_name">Резервное копирование виртуальных серверов ВДЦ</msg>
@@ -13374,7 +13374,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Параметры услуг</msg>
       <msg name="short_value">Значения</msg>
       <msg name="hint_value">Значения для параметров с типом список</msg>
-      <msg name="hint_locale_name">Наименование</msg>
+      <msg name="hint_locale_name">Անուն</msg>
       <msg name="hint_orderpriority">Приоритет параметра услуги при сортировке (в прямом порядке)</msg>
       <msg name="short_up">Вверх</msg>
       <msg name="short_down">Вниз</msg>
@@ -13991,7 +13991,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="account_name">Клиент</msg>
       <msg name="hint_account_name">Клиент совершивший оплату</msg>
       <msg name="hint_p_autogenerated_on">Сумма платежа рассчитана автоматически</msg>
-      <msg name="select_paymethod">выбрать</msg>
+      <msg name="select_paymethod">Ընտրել</msg>
       <msg name="hint_expense">Распределение суммы платежа по расходам</msg>
       <msg name="short_expense">Расходы</msg>
       <msg name="hint_receipt">Создать чек</msg>
@@ -14458,7 +14458,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_allowrefund">Разрешить полный или частичный возврат платежей совершенных методом оплаты</msg>
       <msg name="hint_currency">Укажите валюту, в которой будут осуществляться платежи</msg>
       <msg name="hint_custom_name">Наименование метода оплаты</msg>
-      <msg name="custom_name">Наименование</msg>
+      <msg name="custom_name">Անուն</msg>
       <msg name="title">Настройка интеграции</msg>
       <msg name="minamount">Минимальная сумма платежа</msg>
       <msg name="placeholder_minamount">0</msg>
@@ -14527,8 +14527,8 @@ List-Subscribe: &lt;url&gt;
     </messages>
     <messages name="paymethod.param">
       <msg name="title">Параметры</msg>
-      <msg name="locale_name">Наименование</msg>
-      <msg name="hint_locale_name">Наименование</msg>
+      <msg name="locale_name">Անուն</msg>
+      <msg name="hint_locale_name">Անուն</msg>
       <msg name="id">Id</msg>
       <msg name="hint_id">Уникальный идентификатор</msg>
       <msg name="msg_confirm_delete">Вы действительно хотите удалить параметр метода оплаты</msg>
@@ -15162,7 +15162,7 @@ List-Subscribe: &lt;url&gt;
     <messages name="selectclients">
       <msg name="module_description">Сегменты клиентов позволяют динамически группировать клиентов по различным признакам. Далее '''сегменты клиентов''' используются в маркетинговых модулях и отчетах.</msg>
       <msg name="short_rule">Условия</msg>
-      <msg name="short_try">Проверить</msg>
+      <msg name="short_try">Ստուգել</msg>
       <msg name="hint_rule">Список условий</msg>
       <msg name="hint_try">Проверить выборку клиентов</msg>
       <msg name="title">Сегменты клиентов</msg>
@@ -15177,7 +15177,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Архив сегментов клиентов</msg>
     </messages>
     <messages name="selectclients.filter">
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
     </messages>
     <messages name="selectclients.edit">
       <msg name="title">Сегмент клиентов</msg>
@@ -15213,7 +15213,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="rule_and">И</msg>
       <msg name="rule_or">ИЛИ</msg>
       <msg name="testban">__human_rules__</msg>
-      <msg name="short_try">Проверить</msg>
+      <msg name="short_try">Ստուգել</msg>
       <msg name="hint_try">Проверить выборку клиентов</msg>
     </messages>
     <messages name="selectclients.rule.edit">
@@ -15559,11 +15559,11 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_confirm_stop">Вы действительно хотите остановить услугу</msg>
       <msg name="hint_p_warning_message">При проверке данных профиля обнаружены ошибки:&lt;br/&gt;__value__</msg>
       <msg name="hint_p_scheduledclose_prop">Запланировано удаление услуги на: __value__</msg>
-      <msg name="short_sync">Проверить</msg>
+      <msg name="short_sync">Ստուգել</msg>
       <include name="service_status"/>
       <include name="service_props"/>
       <msg name="id">Id</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="autoprolong">Автопродление</msg>
       <msg name="hint_autoprolong">Период автоматического продления услуги. Автоматическое продление срабатывает в последний день действия услуги</msg>
       <msg name="short_instruction">Инструкция</msg>
@@ -15733,7 +15733,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_scale_select">Пакет добавляемого значения</msg>
       <msg name="hint_intvalue">Дополнительно заказано</msg>
       <msg name="cost">Стоимость добавления</msg>
-      <msg name="name">Наименование</msg>
+      <msg name="name">Անուն</msg>
       <msg name="hint_cost">Стоимость дозаказа ресурса без учета измения специальной цены</msg>
       <msg name="enumerationitem">Значение</msg>
       <msg name="hint_enumerationitem">Выберите значение ресурса</msg>
@@ -17000,7 +17000,7 @@ List-Subscribe: &lt;url&gt;
     </messages>
     <messages name="datacenter">
       <msg name="module_description">С помощью данного модуля вы можете группировать свои услуги по географическому признаку их расположения.</msg>
-      <msg name="title">Дата-центры</msg>
+      <msg name="title">Տվյալների բազաներ</msg>
     </messages>
     <messages name="tool.recalculation.item">
       <msg name="module_description">С помощью данной функции провайдер может произвести перерасчет расходов клиента с определенной даты. Например, это может потребоваться, если бы расходы клиента за заказные товары или услуги по какой-либо причине посчитались неверно, или не была учтена скидка.</msg>
