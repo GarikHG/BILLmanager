@@ -171,8 +171,8 @@
       <msg name="2_step_auth_code_hint">6-значный числовой пароль, сгенерированный приложением Google Authenticator</msg>
     </messages>
     <messages name="_common">
-      <msg name="contacts">Контакты</msg>
-      <msg name="go_to_admin_panel">панель администратора</msg>
+      <msg name="contacts">Կոնտակտներ</msg>
+      <msg name="go_to_admin_panel">Ադմինիստրատորի վահանակ</msg>
       <msg name="confirm">Подтвердить</msg>
       <msg name="scheduledclose">Запланировано удаление на {{ date }}</msg>
       <msg name="autoprolong_on_count">Включено автоматическое продление на {{ date }}</msg>
@@ -235,7 +235,7 @@
       <msg name="save_changes">Сохранить изменения</msg>
       <msg name="avatar">Загрузить фото</msg>
       <msg name="here">здесь</msg>
-      <msg name="phone">Телефон</msg>
+      <msg name="phone">Հեռախոս</msg>
       <msg name="type">Тип</msg>
       <msg name="delete_ok">Да, удалить</msg>
       <msg name="resume_ok">Да, включить</msg>
@@ -252,8 +252,8 @@
       <msg name="year_short">г.</msg>
       <msg name="export_csv">Экспорт в CSV</msg>
       <msg name="email">E-mail</msg>
-      <msg name="country">Страна</msg>
-      <msg name="address">Адрес</msg>
+      <msg name="country">Երկիրը</msg>
+      <msg name="address">Հասցե</msg>
       <msg name="date">Дата</msg>
       <msg name="action">Событие</msg>
       <msg name="user">Пользователь</msg>
@@ -459,16 +459,16 @@
     </messages>
     <messages name="_login">
       <msg name="oldpasswd">Старый пароль</msg>
-      <msg name="login">Вход</msg>
-      <msg name="register">Регистрация</msg>
-      <msg name="recovery">Восстановление пароля</msg>
+      <msg name="login">Մուտք</msg>
+      <msg name="register">Գրանցվել</msg>
+      <msg name="recovery">Վերականգնել Գաղտնաբառերը</msg>
     </messages>
     <messages name="_sign_in">
-      <msg name="username">Имя пользователя (логин) или e-mail</msg>
-      <msg name="password">Пароль</msg>
-      <msg name="renewal">Чужой компьютер</msg>
-      <msg name="recovery">Восстановить пароль</msg>
-      <msg name="submit">Войти</msg>
+      <msg name="username">Օգտատիրոջ անուն (login) կամ էլ. Փոստ</msg>
+      <msg name="password">Գաղտնաբառ</msg>
+      <msg name="renewal">Ուրիշի համակարգիչ</msg>
+      <msg name="recovery">Վերականգնել գաղտնաբառը</msg>
+      <msg name="submit">Մուտք</msg>
       <msg name="code_description">Укажите 6-значный код, сгенерированный приложением Google Authenticator</msg>
       <msg name="code_label">Код подтверждения</msg>
       <msg name="supportaccess">Я свой</msg>
@@ -480,7 +480,7 @@
       <msg name="sms_step2_desc1">Подтверждение номера {{ phone }}</msg>
       <msg name="sms_step2_desc2">Если Вы не получили проверочный код, обратитесь в нашу техническую поддержку по e-mail &lt;a href=&quot;mailto:{{ support_email }}&quot;&gt;{{ support_email }}&lt;/a&gt;</msg>
       <msg name="sms_step2_change_phone">Указать другой номер</msg>
-      <msg name="phone">Телефон</msg>
+      <msg name="phone">Հեռախոս</msg>
       <msg name="code">Введите полученный код</msg>
       <msg name="resend_code">отправить код еще раз</msg>
       <msg name="apply">Применить</msg>
@@ -517,11 +517,11 @@
       <msg name="goto_dialog_start">К началу переписки</msg>
       <msg name="goto_dialog_end">В конец переписки</msg>
       <msg name="message_required">Пожалуйста, опишите суть вопроса</msg>
-      <msg name="menu_ticket_all">Все запросы</msg>
-      <msg name="menu_clienthelp">Справка</msg>
+      <msg name="menu_ticket_all">Բոլոր հարցումները</msg>
+      <msg name="menu_clienthelp">Օգնություն</msg>
       <msg name="notification">Уведомления</msg>
       <msg name="wait">нерешенных запросов</msg>
-      <msg name="title">Служба поддержки</msg>
+      <msg name="title">Տեխնիկական աջակցության</msg>
       <msg name="add_file">Добавить файл</msg>
       <msg name="buy_incident_for_tech">У Вас нет доступных обращений в техническую поддержку</msg>
       <msg name="hint_department_client_title">В отдел по работе с клиентами</msg>
@@ -553,7 +553,7 @@
       <msg name="forecast_answer">Ожидаемое время ответа</msg>
       <msg name="close_ticket">Задача решена (закрыть запрос)</msg>
       <msg name="question">Задать вопрос</msg>
-      <msg name="question_new">Задать новый вопрос</msg>
+      <msg name="question_new">Նոր հարց</msg>
       <msg name="by_ticket">по тикету</msg>
       <msg name="go_to_ticket">перейти в тикет</msg>
       <msg name="new_ticket">Новый запрос в службу поддержки</msg>
@@ -594,7 +594,7 @@
       <msg name="infoboard_details_start">Дата начала работ</msg>
       <msg name="infoboard_details_end">Дата окончания работ</msg>
       <msg name="infoboard_details_services">Список затронутых услуг</msg>
-      <msg name="infoboard_details_service_name">Имя</msg>
+      <msg name="infoboard_details_service_name">Անուն</msg>
       <msg name="infoboard_details_service_id">id услуги</msg>
       <msg name="associated_with_service">Связан с услугой</msg>
     </messages>
@@ -616,7 +616,7 @@
       <msg name="2cc_step_2">Информация о плательщике</msg>
       <msg name="sms_success">Запрос на оплату успешно отправлен</msg>
       <msg name="pay">Оплатить</msg>
-      <msg name="phone">Телефон</msg>
+      <msg name="phone">Հեռախոս</msg>
       <msg name="wmid">Ваш WMID</msg>
       <msg name="different_way">Другой способ</msg>
       <msg name="method">способ оплаты</msg>
@@ -717,9 +717,9 @@
       <msg name="document_customer">Плательщик</msg>
       <msg name="payer_add_success">Новый плательщик успешно создан!</msg>
       <msg name="payer_edit_success">Плательщик успешно отредактирован!</msg>
-      <msg name="profile_new_option_1">Физическое лицо</msg>
-      <msg name="profile_new_option_2">Юридическое лицо</msg>
-      <msg name="profile_new_option_3">Индивидуальный предприниматель</msg>
+      <msg name="profile_new_option_1">Ֆիզիկական անձ</msg>
+      <msg name="profile_new_option_2">Իրավաբանական անձ</msg>
+      <msg name="profile_new_option_3">Անհատ ձեռնարկատեր</msg>
       <msg name="add_profile">Добавить плательщика</msg>
       <msg name="balance">Баланс</msg>
       <msg name="amount">Сумма</msg>
@@ -728,7 +728,7 @@
       <msg name="subaccount">Счета</msg>
       <msg name="profile">Плательщики</msg>
       <msg name="balance_recharge">Пополнить баланс</msg>
-      <msg name="contract">Договоры</msg>
+      <msg name="contract">Պայմանագրեր</msg>
       <msg name="act_for">Акт сверки</msg>
       <msg name="documents">Документы</msg>
       <msg name="documents_for">Документы за</msg>
@@ -1117,12 +1117,12 @@
       <msg name="validity_period">срок действия: {{ period }}</msg>
       <msg name="cost">Стоимость</msg>
       <msg name="adm_fields">Административный контакт</msg>
-      <msg name="adm_fname">имя</msg>
-      <msg name="adm_lname">фамилия</msg>
+      <msg name="adm_fname">Անուն</msg>
+      <msg name="adm_lname">Ազգանուն</msg>
       <msg name="tech_email">e-mail</msg>
       <msg name="tech_fields">Технический контакт</msg>
       <msg name="adm_jtitle">должность</msg>
-      <msg name="adm_phone">телефон</msg>
+      <msg name="adm_phone">Հեռախոս</msg>
       <msg name="org_fields">Данные организации</msg>
       <msg name="org_contact_desc">Данные организации необходимы  для сертификатов с повышенным уровнем доверия</msg>
       <msg name="crt_view">Сертификат</msg>
@@ -1150,8 +1150,8 @@
 Пожалуйста, обратитесь в {{ value }}. ]]></msg>
       <msg name="is_gen_error_support">cлужбу поддержки</msg>
       <msg name="field_cn">домен</msg>
-      <msg name="field_state">регион</msg>
-      <msg name="field_country">страна</msg>
+      <msg name="field_state">Տարածաշրջան</msg>
+      <msg name="field_country">Երկիրը</msg>
       <msg name="field_locality">город или местность</msg>
       <msg name="field_organization">организация</msg>
       <msg name="prolong">продлить</msg>
@@ -1186,7 +1186,7 @@
       <msg name="cert_order_title">Оформление SSL-сертификата</msg>
       <msg name="step_1"><![CDATA[Запрос на получение
        сертификата]]></msg>
-      <msg name="step_2">Контакты</msg>
+      <msg name="step_2">Կոնտակտներ</msg>
       <msg name="step_3"><![CDATA[Данные
        организации]]></msg>
       <msg name="step_4"><![CDATA[Подтверждение
@@ -1195,23 +1195,23 @@
        заказа]]></msg>
       <msg name="admin_contact">Административный контакт</msg>
       <msg name="admin_contact_form_desc">Контакт лица, занимающего старшую должность в организации, и имеющего право отправлять запрос на получения сертификата от имени организации. После выпуска сертификата, этому лицу будет направлена его копия.  С ним могут связаться, если понадобится дополнительная информация, необходимая для выдачи сертификата. Заполняется латиницей.</msg>
-      <msg name="contact_last_name">Фамилия</msg>
+      <msg name="contact_last_name">Ազգանուն</msg>
       <msg name="contact_jtitle">Должность</msg>
       <msg name="tech_contact">Технический контакт</msg>
       <msg name="tech_contact_form_desc">На этот контакт будет отправлен сам сертификат и информация о процедуре его продления и обновления. В качестве технического контакта обычно указывается лицо, которое занимается повседневным обслуживанием web-сервера, на котором будет установлен сертификат.</msg>
       <msg name="tech_contact_like_admin">Совпадает с административным контактом</msg>
-      <msg name="contact_name">Имя</msg>
+      <msg name="contact_name">Անուն</msg>
       <msg name="contact_email">E-mail</msg>
-      <msg name="contact_phone">Телефон</msg>
+      <msg name="contact_phone">Հեռախոս</msg>
       <msg name="org_contact">Данные организации</msg>
       <msg name="org_name">Полное название организации</msg>
       <msg name="org_name_desc">как  указано в Свидетельстве о регистрации юридического лица</msg>
-      <msg name="org_country">Страна</msg>
-      <msg name="org_state">Регион</msg>
+      <msg name="org_country">Երկիրը</msg>
+      <msg name="org_state">Տարածաշրջան</msg>
       <msg name="org_city">Город или местность</msg>
       <msg name="org_postcode">Почтовый индекс</msg>
-      <msg name="org_address">Адрес</msg>
-      <msg name="org_phone">Телефон</msg>
+      <msg name="org_address">Հասցե</msg>
+      <msg name="org_phone">Հեռախոս</msg>
       <msg name="approver_email">Email адрес для подтверждения</msg>
       <msg name="approver_email_desc">Укажите e-mail, на который будет отправлена ссылка для подтверждения права на управление доменом</msg>
       <msg name="approver_method">Выбирете наиболее подходящий для  Вас способ подтверждения прав на домен</msg>
@@ -1231,8 +1231,8 @@
       <msg name="info_for_reissue">Информация для перевыпуска сертификата</msg>
       <msg name="info_for_reissue_desc">Используется для перевыпуска сертификата (генерации CSR). Все поля необходимо заполнить латиницей</msg>
       <msg name="info_domain">Домен, для которого заказывается сертификат</msg>
-      <msg name="info_country">Страна</msg>
-      <msg name="info_state">Регион</msg>
+      <msg name="info_country">Երկիրը</msg>
+      <msg name="info_state">Տարածաշրջան</msg>
       <msg name="info_state_DESC">область, край, город федерального значения</msg>
       <msg name="info_l">Город или местность</msg>
       <msg name="info_o">Полное название организации или ФИО</msg>
@@ -1254,7 +1254,7 @@
       <msg name="valid_until">действителен до</msg>
       <msg name="need_configure">Завершите оформление</msg>
       <msg name="info">Информация</msg>
-      <msg name="contact">Контакты</msg>
+      <msg name="contact">Կոնտակտներ</msg>
       <msg name="request_key">Запрос и ключ</msg>
       <msg name="history">История</msg>
       <msg name="regenerate">Перевыпуск</msg>
@@ -1808,8 +1808,8 @@
       <msg name="contacts_domains_edit__field_contact_firstname_locale_desc">Заполните эти поля в строгом соответсвии с паспортными данными</msg>
       <msg name="contacts_domains_edit__field_firstname">ФИО латиницей</msg>
       <msg name="contacts_domains_edit__field_passport_org">название организации, выдавшей документ, и код подразделения</msg>
-      <msg name="contacts_domains_edit__field_location_city">Адрес</msg>
-      <msg name="contacts_domains_edit__field_postal_city">Адрес</msg>
+      <msg name="contacts_domains_edit__field_location_city">Հասցե</msg>
+      <msg name="contacts_domains_edit__field_postal_city">Հասցե</msg>
       <msg name="contacts_domains_edit__field_addressformat">например: ул. Строителей д 18 кв 15</msg>
       <msg name="contacts_domains_edit__field_dataformat">в формате гггг-мм-дд</msg>
       <msg name="contacts_domains_add__title">Новый контакт домена (владелец домена)</msg>
@@ -1824,8 +1824,8 @@
       <msg name="menu_transfer">Перенос доменов</msg>
       <msg name="paid_up_to">оплачен до</msg>
       <msg name="order">Зарегистрировать новый домен</msg>
-      <msg name="based_params">Основные параметры</msg>
-      <msg name="customer_data">Анкетные данные клиента</msg>
+      <msg name="based_params">Հիմնական պարամետրեր</msg>
+      <msg name="customer_data">Հաճախորդի պրոֆիլի տվյալները</msg>
       <msg name="customer_data_owner">Владелец домена</msg>
       <msg name="customer_data_admin">Административный контакт</msg>
       <msg name="customer_data_tech">Технический контакт</msg>
