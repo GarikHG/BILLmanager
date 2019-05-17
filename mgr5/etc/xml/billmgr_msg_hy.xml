@@ -18,7 +18,7 @@
       <msg name="doctype">Тип документа</msg>
       <msg name="hint_doctype">Тип загружаемого документа</msg>
       <msg name="hint_edit">Изменить тип документа</msg>
-      <msg name="title">Документы</msg>
+      <msg name="title">Փաստաթղթեր</msg>
       <msg name="short_file">Просмотреть</msg>
       <msg name="hint_file">Просмотреть выбранный файл</msg>
       <msg name="name">Имя файла</msg>
@@ -78,7 +78,7 @@
       <msg name="open_detail">Регистрация домена</msg>
       <msg name="prolong_detail">Продление домена</msg>
       <msg name="transfer_detail">Трансфер домена</msg>
-      <msg name="short_doc">Документы</msg>
+      <msg name="short_doc">Փաստաթղթեր</msg>
       <msg name="hint_doc">Копии документов</msg>
       <msg name="hint_doc_disabled">Услуга не активна или верификация не поддерживается</msg>
       <msg name="module_description">Доменные имена</msg>
@@ -430,12 +430,12 @@
       <msg name="menu_notifytype">Шаблоны сообщений</msg>
       <msg name="menu_mainsubscribe">Настройка уведомлений</msg>
       <msg name="menu_provideroptions">Компания</msg>
-      <msg name="menu_provideroption">Провайдер</msg>
+      <msg name="menu_provideroption">Պրովայդեր</msg>
       <msg name="menu_support">Поддержка</msg>
       <msg name="menu_ticket">Запросы</msg>
       <msg name="menu_clientticket">Запросы</msg>
       <msg name="menu_customer">Клиент</msg>
-      <msg name="menu_provider">Провайдер</msg>
+      <msg name="menu_provider">Պրովայդեր</msg>
       <msg name="menu_country">Страны</msg>
       <msg name="menu_clientticket_archive">Архив запросов</msg>
       <msg name="menu_working_plan">Графики работы</msg>
@@ -490,7 +490,7 @@
       <msg name="menu_null">IPmanager</msg>
       <msg name="menu_processing.ipmgr">IPmanager</msg>
       <msg name="menu_processing.nameserver">Серверы имен</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="menu_project">Провайдеры</msg>
       <msg name="menu_directory">Справочники</msg>
       <msg name="menu_billmgrset">Настройка панели</msg>
@@ -993,7 +993,7 @@
       <msg name="profiletype">Անձի տեսակը</msg>
       <msg name="hint_spusage">Количество услуг, использующих данный контакт</msg>
       <msg name="hint_profiletype">Юридический статус контакта</msg>
-      <msg name="short_doc">Документы</msg>
+      <msg name="short_doc">Փաստաթղթեր</msg>
       <msg name="hint_doc">Копии документов</msg>
       <msg name="props">Состояние</msg>
       <include name="profile.profiletype"/>
@@ -2052,7 +2052,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="customer_country">Երկիրը</msg>
       <msg name="subaccount">Счета клиента</msg>
       <msg name="list_subaccount_id">Код счета</msg>
-      <msg name="list_subaccount_project">Провайдер</msg>
+      <msg name="list_subaccount_project">Պրովայդեր</msg>
       <msg name="list_subaccount_balance">Баланс счета</msg>
       <msg name="list_subaccount_annually">Годовой оборот (платежи)</msg>
       <msg name="list_subaccount_annually_expense">Годовой оборот (расходы)</msg>
@@ -2198,7 +2198,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_item">Услуга, к которой относится запрос</msg>
       <msg name="ticket_item">Услуга</msg>
       <msg name="hint_ticket_item">Услуга, к которой относится запрос</msg>
-      <msg name="ticket_project_select">Провайдер</msg>
+      <msg name="ticket_project_select">Պրովայդեր</msg>
       <msg name="hint_ticket_project_select">Провайдер, к которому относится тема запроса</msg>
       <msg name="short_ticketinfo">Информация</msg>
       <msg name="short_ticketnote">Резюме</msg>
@@ -2446,8 +2446,8 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="short_delete">Удалить</msg>
       <msg name="msg_confirm_delete">Вы действительно хотите удалить запрос</msg>
       <msg name="hint_delete">Удалить запрос из системы</msg>
-      <msg name="project_name">Провайдер</msg>
-      <msg name="hint_project_name">Провайдер</msg>
+      <msg name="project_name">Պրովայդեր</msg>
+      <msg name="hint_project_name">Պրովայդեր</msg>
       <include name="ticket_tag_msg_inc"/>
     </messages>
     <messages name="ticket_all.filter">
@@ -2733,8 +2733,8 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_tag_group">Группа тегов запроса</msg>
       <msg name="tag">Теги</msg>
       <msg name="hint_tag">Теги запроса</msg>
-      <msg name="project">Провайдер</msg>
-      <msg name="hint_project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
+      <msg name="hint_project">Պրովայդեր</msg>
       <msg name="department">Ответственный отдел</msg>
       <msg name="hint_department">Ответственный отдел</msg>
       <msg name="ticket_count">Количество запросов</msg>
@@ -2753,7 +2753,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="template_type_0">Шаблон ответа</msg>
       <msg name="template_type_1">Шаблон приветствия</msg>
       <msg name="template_type_2">Шаблон чата</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="hint_project">Провайдер, в тикетах которого можно использовать данный шаблон</msg>
       <msg name="template_type">Тип шаблона</msg>
       <msg name="hint_template_type">Тип шаблона ответа</msg>
@@ -2922,7 +2922,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="subject">Заголовок</msg>
       <msg name="hint_subject">Заголовок вопроса</msg>
       <msg name="location">Расположение</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
     </messages>
     <messages name="faqlocation">
       <msg name="location_table">в таблице</msg>
@@ -2942,7 +2942,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="new">Ստեղծել նորը</msg>
       <msg name="copy">Скопировать из существующего</msg>
       <msg name="copyfrom">Скопировать из</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="language">Язык</msg>
       <msg name="hint_language">FAQ будет отображаться только у клиентов с выбранным языком в сессии</msg>
       <msg name="location">Расположение</msg>
@@ -3368,7 +3368,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     <messages name="fraud_setting">
       <msg name="module_description">С помощью данного модуля можно настроить системы защиты от мошенников. Обычно это проверка телефонного номера с помощью SMS или звонка.</msg>
       <msg name="title">Настройка защиты от мошенничества</msg>
-      <msg name="name">Провайдер</msg>
+      <msg name="name">Պրովայդեր</msg>
       <msg name="short_itemtype">Типы продуктов</msg>
       <msg name="short_pricelist">Тарифы</msg>
       <msg name="hint_itemtype">Список типов продуктов</msg>
@@ -3663,7 +3663,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     <messages name="report">
       <msg name="id">Id</msg>
       <msg name="amount">Сумма</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="hint_project">Провайдер услуг</msg>
       <msg name="currency">Валюта</msg>
       <msg name="hint_currency">Валюта, которую необходимо использовать в отчете</msg>
@@ -3735,7 +3735,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="forecast">Прогноз</msg>
       <msg name="date">Дата</msg>
       <msg name="hint_period">Выберите период, за который нужно построить отчет</msg>
-      <msg name="table_project">Провайдер</msg>
+      <msg name="table_project">Պրովայդեր</msg>
       <msg name="table_expense">Продажи</msg>
       <msg name="diagram_expense">Сумма расходов</msg>
       <msg name="description">Отчет об объемах продаж служит для получения информации по количеству списанных средств за выбранный промежуток времени.&lt;br/&gt;&#13;
@@ -3820,7 +3820,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_year_increase">Изменение количества активных/оплаченных услуг за календарный год на дату отчета</msg>
       <msg name="table_activeproduct">Статистика по услугам</msg>
       <msg name="table_pricelistgroup">Группы тарифов</msg>
-      <msg name="table_project">Провайдер</msg>
+      <msg name="table_project">Պրովայդեր</msg>
     </messages>
     <messages name="report.topaccountexp">
       <msg name="title">ТОП клиентов по затратам денежных средств</msg>
@@ -4155,7 +4155,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="report.abuse">
       <msg name="title">Список клиентов с зарегистрированными нарушениями</msg>
-      <msg name="table_project">Провайдер</msg>
+      <msg name="table_project">Պրովայդեր</msg>
       <msg name="report_info">Отчет выводит список нарушений по клиентам провайдера</msg>
       <msg name="report_shortinfo">Отчет выводит список нарушений по клиентам провайдера</msg>
       <msg name="account">Клиент</msg>
@@ -4207,7 +4207,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="phone">Проверенный телефон</msg>
       <msg name="abuse_rate">Баллы нарушений</msg>
       <msg name="hint_abuse_rate">Суммарное количество баллов нарушений учтенное для вашей учетной записи. При превышении максимально допустимого порога, к Вам могут быть применены дополнительные штрафные санкции</msg>
-      <msg name="provider">Провайдер</msg>
+      <msg name="provider">Պրովայդեր</msg>
       <msg name="subaccount">Код лицевого счета</msg>
       <msg name="balance">Баланс</msg>
       <msg name="prolong_amount_min">Минимальная сумма для возобновления услуг</msg>
@@ -4228,7 +4228,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <include name="validatephone.finish"/>
     </messages>
     <messages name="dashboard.providers">
-      <msg name="name">Провайдер</msg>
+      <msg name="name">Պրովայդեր</msg>
       <msg name="balance">Баланс</msg>
       <msg name="items">Товары/Услуги</msg>
     </messages>
@@ -4791,7 +4791,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="project_human">Провайдер клиента __comparison__ "__value__"</msg>
       <msg name="project">Провайдер клиента</msg>
       <msg name="hint_project_select">Провайдер, подключенный при регистрации</msg>
-      <msg name="project_select">Провайдер</msg>
+      <msg name="project_select">Պրովայդեր</msg>
     </messages>
     <messages name="accountgroup.condition.social_network">
       <msg name="social_network_human">Зарегистрирован через соц.сеть __comparison__ "__value__"</msg>
@@ -4903,7 +4903,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="account_group_restrict">Запретить состоящим в группе</msg>
       <msg name="hint_account_group_restrict">Выберите группу, клиентам состоящим в этой группе не будет начисляться вознаграждение по реферальной программе</msg>
       <msg name="hint_integration">Способ интеграции с сайтом. Первый требует доработки сайта, второй нет. Но тогда ссылка будет вести в биллинг, а не на сайт.</msg>
-      <msg name="billurl">URL биллинга</msg>
+      <msg name="billurl">Վճարային վահանակի URL</msg>
       <msg name="integration">Способ интеграции</msg>
       <msg name="hint_billurl">Укажите URL к биллингу, в виде: 'https://example.com:1500'</msg>
       <msg name="msg_help_links">Не забудьте настроить &lt;a href="https://docs.ispsystem.com/pages/viewpage.action?pageId=16548404" target="_blank"&gt;учет посещений на сайте&lt;/a&gt;</msg>
@@ -5415,12 +5415,12 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_currency">Валюта, в которой клиент будет производить расчеты</msg>
       <msg name="list_products_id">Կոդ</msg>
       <msg name="list_products_name">Անուն</msg>
-      <msg name="list_products_project">Провайдер</msg>
+      <msg name="list_products_project">Պրովայդեր</msg>
       <msg name="list_products_pricelist">Тариф</msg>
       <msg name="list_products_status">Состояние</msg>
       <msg name="list_products_cost">Стоимость</msg>
       <msg name="list_balance_id">Կոդ</msg>
-      <msg name="list_balance_project">Провайдер</msg>
+      <msg name="list_balance_project">Պրովայդեր</msg>
       <msg name="list_balance_balance">Баланс</msg>
       <msg name="list_balance_annually">Годовой оборот (платежи)</msg>
       <msg name="list_balance_annually_expense">Годовой оборот (расходы)</msg>
@@ -5724,7 +5724,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     <messages name="subaccount.edit">
       <msg name="subaccount_currency">Валюта</msg>
       <msg name="hint_subaccount_currency">Валюта создаваемого счета</msg>
-      <msg name="subaccount_project">Провайдер</msg>
+      <msg name="subaccount_project">Պրովայդեր</msg>
       <msg name="hint_subaccount_project">Провайдер создаваемого счета</msg>
       <msg name="creditlimit">Кредитный лимит</msg>
       <msg name="hint_creditlimit">Кредитный лимит позволяет клиенту уходить в долг в пределах указанной суммы</msg>
@@ -5812,7 +5812,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="open">Открытие услуги</msg>
       <msg name="changeaddon">Изменение дополнительного ресурса</msg>
       <msg name="transfer">Трансфер домена</msg>
-      <msg name="subaccount">Провайдер</msg>
+      <msg name="subaccount">Պրովայդեր</msg>
       <msg name="hint_subaccount">Выберите провайдера</msg>
       <msg name="statdaily">Учет статистики</msg>
       <msg name="prolong">Продление услуги</msg>
@@ -6158,7 +6158,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="BA-1779">Отчеты.
 В "Отчёт о стоимости оказанных услуг по дата-центрам" добавлена итоговая стоимость услуг для каждого провайдера. </msg>
       <msg name="BC-699">BILLmanager 6.
-Исправлен экспорт в CSV на форме "Финансы и документы". </msg>
+ֆիքսված է արտահանման CSV ձևաչափով "Ֆինանսներ և Փաստաթղթեր". </msg>
       <msg name="BA-1477">Чеки.
 Добавлена возможность повторной отправки чеков, регистрация которых завершилась с ошибкой.
 &lt;a href="https://docs.ispsystem.com/x/n4n8"&gt;&lt;/a&gt;</msg>
@@ -9411,7 +9411,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_fromdate">Дата начала действия промо-акции</msg>
       <msg name="todate">Дата окончания</msg>
       <msg name="hint_todate">Дата окончания промо-акции</msg>
-      <msg name="project_name">Провайдер</msg>
+      <msg name="project_name">Պրովայդեր</msg>
     </messages>
     <messages name="promotion.archived">
       <msg name="title">Архив промо-акций</msg>
@@ -9606,7 +9606,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="group_new">Создать новую группу условий</msg>
       <msg name="groupname">Имя группы</msg>
       <msg name="hint_groupname">Введите имя группы условий</msg>
-      <msg name="hint_currency">Валюта расчетов</msg>
+      <msg name="hint_currency">Հաշվարկային արժույթ</msg>
       <msg name="group">Группа условий</msg>
       <msg name="hint_group">Вы можете группировать условия. Условия в группе будут объединены оператором ИЛИ. Группы между собой связаны по оператору И. Пример: есть условия A, B  и С объединенные в одну группу и есть условия D и E объединенные в другую группу. Итоговое выражение тогда будет - (A ИЛИ B ИЛИ С) И (D ИЛИ E)</msg>
       <msg name="affiliate">Реферальная программа</msg>
@@ -10069,9 +10069,9 @@ List-Subscribe: &lt;url&gt;
       <msg name="company">Компания</msg>
       <msg name="itemtype">Тип продукта</msg>
       <msg name="main">Основное</msg>
-      <msg name="project">Провайдер</msg>
-      <msg name="project_name">Провайдер</msg>
-      <msg name="hint_project">Наименование провайдера</msg>
+      <msg name="project">Պրովայդեր</msg>
+      <msg name="project_name">Պրովայդեր</msg>
+      <msg name="hint_project">Պրովայդերի անունը</msg>
       <msg name="id">Id</msg>
       <msg name="hint_id">Уникальный идентификатор</msg>
       <msg name="name">Անուն</msg>
@@ -10574,7 +10574,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_user_id">Id пользователя</msg>
       <msg name="secret">Секретная последовательность</msg>
       <msg name="hint_secret">Секретная последовательность для подтверждения доступа</msg>
-      <msg name="billmgr_url">URL биллинга</msg>
+      <msg name="billmgr_url">Վճարային վահանակի URL</msg>
       <msg name="hint_billmgr_url">URL адрес биллинга</msg>
       <msg name="email">Email</msg>
       <msg name="hint_email">Email адрес клиента</msg>
@@ -11763,7 +11763,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_desc_service_profile">Профили, которые будут перенесены к клиенту</msg>
       <msg name="hint_desc_service_additional">Услуги, которые привязаны к переносимым к клиенту профилям и которые так же будут перенесены</msg>
       <msg name="hint_account">Клиент, к которому переносится услуга</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="hint_project">Провайдер, тарифный план которого будет назначен услуге</msg>
       <msg name="pricelist">Тарифный план</msg>
       <msg name="domain_desc_msg">Необходим тарифный план для регистрации доменов в зоне '__tld__'</msg>
@@ -11843,20 +11843,20 @@ List-Subscribe: &lt;url&gt;
       <msg name="subaccountgentype_1">По алгоритму Луна</msg>
       <msg name="title_new">Создание нового провайдера</msg>
       <msg name="title">Редактирование провайдера</msg>
-      <msg name="notifyemail">Email для отправки уведомлений</msg>
+      <msg name="notifyemail">Էլ. փոստ ծանուցումներ ուղարկելու համար</msg>
       <msg name="hint_notifyemail">Email адрес, с которого будут отправляться уведомления</msg>
-      <msg name="supportemail">Email поддержки</msg>
+      <msg name="supportemail">Տեխնիկական աջակցության էլ․ փոստ</msg>
       <msg name="hint_supportemail">Используется в сообщениях об активации пользователя/плательщика и восстановлении пароля</msg>
       <msg name="supportphone">Телефон поддержки</msg>
       <msg name="hint_supportphone">Телефон поддержки для отображения клиенту в интерфейсе BILLmanager 6</msg>
       <msg name="supportphonedesc">Описание телефона</msg>
       <msg name="hint_supportphonedesc">Описание, которое будет отображаться под номером телефона в интерфейсе BILLmanager 6</msg>
-      <msg name="site">URL сайтa</msg>
+      <msg name="site">Կայքի URL</msg>
       <msg name="hint_site">URL адрес Вашего сайта. Может быть ипользован в уведомлениях, отправляемых клиентам</msg>
-      <msg name="billurl">URL биллинга</msg>
+      <msg name="billurl">Վճարային վահանակի URL</msg>
       <msg name="clienthelp">URL справки</msg>
       <msg name="hint_clienthelp">URL страницы, которая будет открыта при выборе пункта меню "Вызов справки" в интерфейсе пользователя. Макрос {lang} позволяет открывать разные страницы в зависимости от выбранной у клиента локализации</msg>
-      <msg name="basecurrency">Валюта расчетов</msg>
+      <msg name="basecurrency">Հաշվարկային արժույթ</msg>
       <msg name="hint_basecurrency">Валюта расчетов с клиентами. Изменение блокируется при наличии платежей и расходов. В случае переключения клиентам будут созданы новые лицевые счета в новой валюте</msg>
       <msg name="autoassignitem">Подключать клиентам услугу</msg>
       <msg name="autoassignpricelist">Тариф</msg>
@@ -13348,19 +13348,19 @@ List-Subscribe: &lt;url&gt;
     <messages name="initialsettings.project">
       <msg name="wizard_title">Настройки провайдера</msg>
       <msg name="title">Начальная настройка</msg>
-      <msg name="provider_name">Наименование провайдера</msg>
+      <msg name="provider_name">Պրովայդերի անունը</msg>
       <msg name="hint_provider_name">Наименование провайдера, используется в уведомлениях, а также при формировании имени счета клиентов</msg>
       <msg name="currency">Валюта</msg>
       <msg name="hint_currency">Выберите валюту, в которой вы предоставляете клиентам услуги</msg>
       <msg name="language">Язык по умолчанию</msg>
       <msg name="hint_language">Выберите язык интерфейса и документов, который будет основным</msg>
-      <msg name="project_name">Наименование провайдера</msg>
+      <msg name="project_name">Պրովայդերի անունը</msg>
       <msg name="hint_project_name">Наименование провайдера, используется в уведомлениях, а также при формировании имени счета клиентов</msg>
-      <msg name="project_billurl">URL биллинга</msg>
+      <msg name="project_billurl">Վճարային վահանակի URL</msg>
       <msg name="hint_project_billurl">URL адрес доступа к BILLmanager. Используется для определения провайдера при регистрации клиента</msg>
-      <msg name="project_notifyemail">Email для отправки уведомлений</msg>
+      <msg name="project_notifyemail">Էլ. փոստ ծանուցումներ ուղարկելու համար</msg>
       <msg name="hint_project_notifyemail">Email адрес, с которого будут отправляться уведомления</msg>
-      <msg name="project_supportemail">Email поддержки</msg>
+      <msg name="project_supportemail">Տեխնիկական աջակցության էլ․ փոստ</msg>
       <msg name="hint_project_supportemail">Используется в сообщениях об активации пользователя/плательщика и восстановлении пароля</msg>
       <include name="project.billmgr6"/>
     </messages>
@@ -13782,7 +13782,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_type">Тип отправляемого уведомления</msg>
       <msg name="selectclients">Сегмент клиентов</msg>
       <msg name="hint_selectclients">Сегмент клиентов для данной рассылки</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="hint_project">Провайдер, указанный в сегменте клиентов</msg>
       <msg name="hint_resume">Включить автоматическую отправку рассылки</msg>
       <msg name="hint_suspend">Выключить автоматическую отправку рассылки</msg>
@@ -14133,7 +14133,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Оплата</msg>
       <msg name="customer_account">Клиент</msg>
       <msg name="hint_customer_account">Клиент, которому будет назначен платеж</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="hint_project">Провайдер, к которому будет привязан платеж</msg>
       <msg name="msg_error_no_projects">Не найден провайдер соответствующий компании и плательщику клиента</msg>
       <msg name="msg_quickpayment">Перейти к подтверждению &gt;&gt;</msg>
@@ -14635,7 +14635,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="itemmax">Количество услуг доступных для заказа</msg>
       <msg name="hint_itemmax">Укажите максимально количество услуг доступных для заказа одним клиентом. По достижению указанного количества клиентом, заказ дополнительных услуг данного тарифа клиенту будет недоступен</msg>
       <msg name="hint_name">Наименование группы</msg>
-      <msg name="project_list">Провайдер</msg>
+      <msg name="project_list">Պրովայդեր</msg>
       <msg name="hint_project_list">Провайдер, к которому привязана группа</msg>
       <msg name="title_new">Создание новой группы тарифов</msg>
       <msg name="hint_project">Провайдер, к которому привязана группа</msg>
@@ -14795,7 +14795,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="notneedcompany">Нет юридического лица</msg>
       <msg name="hint_notneedcompany">Поставьте флаг, если вы не имеете юридического лица</msg>
       <msg name="title_new">Настройки компании</msg>
-      <msg name="project_name">Наименование провайдера</msg>
+      <msg name="project_name">Պրովայդերի անունը</msg>
       <msg name="hint_project_name">Наименование провайдера используется в уведомлениях, а также при формировании имени счета клиента</msg>
       <msg name="company_name">Наименование организации</msg>
       <msg name="hint_company_name">Юридическое наименование организации, предоставляющей услуги</msg>
@@ -14833,7 +14833,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_email">Email адрес, в дальнейшем указанный адрес используется в качестве логина для входа в систему</msg>
       <msg name="passwd">Пароль</msg>
       <msg name="hint_passwd">Новый пароль</msg>
-      <msg name="currency">Валюта расчетов</msg>
+      <msg name="currency">Հաշվարկային արժույթ</msg>
       <msg name="hint_currency">Валюта, в которой будут производиться расчеты</msg>
       <msg name="realname">Контактное лицо</msg>
       <msg name="hint_realname">ФИО контактного лица</msg>
@@ -15251,7 +15251,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Детали</msg>
       <msg name="summa">Сумма</msg>
       <msg name="hint_summa">Сумма в выбранной валюте</msg>
-      <msg name="hint_currency">Валюта расчетов</msg>
+      <msg name="hint_currency">Հաշվարկային արժույթ</msg>
       <msg name="periodtype">Тип периода</msg>
       <msg name="hint_periodtype">Тип указываемого периода</msg>
       <msg name="periodtype_1">День</msg>
@@ -16930,7 +16930,7 @@ List-Subscribe: &lt;url&gt;
     <messages name="account.taxrule">
       <include name="project.taxrule"/>
       <msg name="title">Ставки налогов</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="type">Тип</msg>
       <msg name="type_main">Глобальная ставка</msg>
       <msg name="type_group">Групповая ставка</msg>
@@ -17076,7 +17076,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="module_description">С помощью данного модуля можно зафиксировать цены для существующих клиентов, по определенным правилам. Обычно это делается с целью изменения ценовой политики при желании сохранить старые цены для определенных групп клиентов. Использование фиксации цен позволяет предотвратить клонирования тарифов с целью изменения их цен.</msg>
       <msg name="id">Id</msg>
       <msg name="hint_id">Идентификатор элемента</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="hint_project">Провайдер, для которого зафиксированы цены</msg>
       <msg name="hint_pricelist">Тарифный план, для которого зафиксированы цены</msg>
       <msg name="fixdate">Дата фиксации</msg>
@@ -17110,7 +17110,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_error_no_items">Под данные условия не подпадает ни одна услуга</msg>
       <msg name="wizard_title">Выбор тарифа</msg>
       <msg name="title">Выбор тарифа для фиксации цены</msg>
-      <msg name="project">Провайдер</msg>
+      <msg name="project">Պրովայդեր</msg>
       <msg name="msg_error_pricelist_count">Отсутствуют доступные для фиксации цен тарифные планы</msg>
     </messages>
     <messages name="tool.fixedprices.add.confirm">
