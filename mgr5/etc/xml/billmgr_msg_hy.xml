@@ -392,7 +392,7 @@
       <msg name="menu_dedic">Առանձնացված սերվերներ</msg>
       <msg name="menu_addition">Модули ISPsystem</msg>
       <msg name="menu_softexternal">Сторонние лицензии</msg>
-      <msg name="menu_sitebuilder">Конструктор сайтов</msg>
+      <msg name="menu_sitebuilder">Կայքի կոնստրուկտոր</msg>
       <msg name="menu_paidsupport">Поддержка по обращениям</msg>
       <msg name="menu_dnshost">DNS-хостинг</msg>
       <msg name="menu_paymentupload">Загрузка платежей</msg>
@@ -1848,7 +1848,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="sitebuilder">
       <include name="service"/>
-      <msg name="title">Конструктор сайтов</msg>
+      <msg name="title">Կայքի կոնստրուկտոր</msg>
       <msg name="hint_domain">Անուն</msg>
       <msg name="short_siteprodomain">Домен</msg>
       <msg name="short_openbuilder">Конструктор</msg>
@@ -5323,7 +5323,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_accountgroup">Группы клиентов</msg>
       <msg name="short_payment_account">Платежи</msg>
       <msg name="hint_payment_account">Платежи клиента</msg>
-      <msg name="short_subaccount">Счета</msg>
+      <msg name="short_subaccount">Հաշիվներ</msg>
       <msg name="hint_subaccount">Лицевые счета клиента</msg>
       <msg name="short_ticket">Запрос</msg>
       <msg name="hint_ticket">Написать запрос клиенту</msg>
@@ -12633,7 +12633,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="dnshost_name">DNS хостинг</msg>
       <msg name="storage_name">Внешнее FTP хранилище</msg>
       <msg name="disk_name">Дисковое пространство</msg>
-      <msg name="sitebuilder_name">Конструктор сайтов</msg>
+      <msg name="sitebuilder_name">Կայքի կոնստրուկտոր</msg>
       <msg name="extip_name">Временный IP-адрес</msg>
       <msg name="extip_hint">Количество доступных для использования публичных IP-адресов</msg>
       <msg name="vmlimit_name">Количество виртуальных серверов</msg>
@@ -14808,7 +14808,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_def_billmgr6">BILLmanager 6 будет отображаться клиентам по умолчанию</msg>
       <msg name="disable_banner">Отключить предупреждение о тестировании BILLmanager 6</msg>
       <msg name="hint_disable_banner">Отключить предупреждение для нового пользователя о тестировании пользовательского интерфейса BILLmanager 6</msg>
-      <msg name="disable_orion">Отключить возврат в старый интерфейс</msg>
+      <msg name="disable_orion">Անջատեք հին ինտերֆեյսի վերադարձը</msg>
       <msg name="hint_disable_orion">Отключить клиентам возможность возврата в старый интерфейс</msg>
     </messages>
     <messages name="project.itemtype">
