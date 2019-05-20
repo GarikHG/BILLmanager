@@ -172,7 +172,7 @@
     </messages>
     <messages name="_common">
       <msg name="contacts">Կոնտակտներ</msg>
-      <msg name="go_to_admin_panel">Ադմինիստրատորի վահանակ</msg>
+      <msg name="go_to_admin_panel">Ադմինիստրատոր</msg>
       <msg name="confirm">Подтвердить</msg>
       <msg name="scheduledclose">Запланировано удаление на {{ date }}</msg>
       <msg name="autoprolong_on_count">Включено автоматическое продление на {{ date }}</msg>
@@ -213,7 +213,7 @@
       <msg name="main_menu_services">Բոլոր ծառայությունները</msg>
       <msg name="main_menu_finance">Փաստաթղթեր</msg>
       <msg name="in_pay">Оплачивается</msg>
-      <msg name="go_to_orion">старый интерфейс</msg>
+      <msg name="go_to_orion">հին ինտերֆեյս</msg>
       <msg name="wiki">База знаний</msg>
       <msg name="popular">Популярные</msg>
       <msg name="clear_filter">очистить фильтр</msg>
@@ -697,7 +697,7 @@
       <msg name="short_print">Печать</msg>
       <msg name="subaccount_count">счетов</msg>
       <msg name="subaccount_count_one">счет</msg>
-      <msg name="subaccount_count_few">счета</msg>
+      <msg name="subaccount_count_few">Հաշիվներ</msg>
       <msg name="subaccount_number">Номер</msg>
       <msg name="subaccount_create_date">Дата</msg>
       <msg name="subaccount_sender_name">Плательщик</msg>
@@ -732,12 +732,12 @@
       <msg name="act_for">Ստուգման ակտ</msg>
       <msg name="documents">Փաստաթղթեր</msg>
       <msg name="documents_for">Документы за</msg>
-      <msg name="document_type">Тип документа</msg>
-      <msg name="payment_history">История платежей</msg>
-      <msg name="history_order">История заказов</msg>
+      <msg name="document_type">Փաստաթղթի տեսակը</msg>
+      <msg name="payment_history">Վճարման պատմություն</msg>
+      <msg name="history_order">Պատվերի պատմություն</msg>
       <msg name="title">Ֆինանսներ և Փաստաթղթեր</msg>
       <msg name="profile_name">Плательщик: ФИО или название компании</msg>
-      <msg name="delete">Удалить</msg>
+      <msg name="delete">Ջնջեl</msg>
       <msg name="delete_profile_title">Удаление плательщика</msg>
       <msg name="delete_profile_confirm">{{value}}</msg>
       <msg name="delete_profile_success">Плательщик успешно удален</msg>
@@ -1520,7 +1520,7 @@
       <msg name="done_order_history">ваш заказ вы можете видеть в</msg>
       <msg name="done_order_wait">ваш заказ будет иметь статус «ожидает оплаты» до тех пор, пока счет не будет оплачен</msg>
       <msg name="done_order_invoice">инфорамация о неоплаченных счетах доступна в разделе</msg>
-      <msg name="done_order_subaccount">Счета</msg>
+      <msg name="done_order_subaccount">Հաշիվներ</msg>
     </messages>
     <messages name="_firstssl">
       <msg name="dashboard-plans__groupD-title">Простой SSL-сертификат с проверкой домена [DV]</msg>
