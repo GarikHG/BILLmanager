@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Panel is installing, please wait...</title>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+      border: 0 none;
+      background: none;
+    }
+    body {
+      font-weight: normal;
+      font-size: 11px;
+      font-family: Arial;
+    }
+    #login-wrapper {
+      width: 270px;
+      left: 50%;
+      margin-left: -135px;
+      position: absolute;
+      margin-top: -164px;
+      top: 50%;
+    }
+    #login-form {
+      width: 270px;
+      background: #78a5df;
+      height: 270px;
+      -webkit-border-radius: 135px;
+      -moz-border-radius: 135px;
+      border-radius: 135px;
+    }
+    #login-form-form .loading {
+      text-align: center;
+      padding-top: 124px;
+      color: white;
+    }
+    #login-wrapper #links {
+      margin: 0 auto;
+      display: table;
+      margin-top: 75px;
+    }
+    ul li {
+      list-style: none;
+    }
+    .body-login-form .tab-content {
+      position: inherit;
+      padding: inherit;
+    }
+    #login-wrapper #links li {
+      padding-left: 24px;
+      line-height: 23px;
+    }
+    a {
+      color: #537393;
+    }
+  </style>
+  <script type="text/javascript">
+    setTimeout(function() {
+      window.location.reload();
+    }, 60000);
+  </script>
+</head>
+<body class="body-login-form">
+<div id="main-wrapper">
+  <div id="overlay" class="hide"></div>
+  <div id="content" class="tab-content active" data-tabid="tab1"><div id="login-wrapper">
+    <div id="login-form">
+      <div id="login-form-form">
+        <h2 class="loading">__NAME__ is installing, please wait...</h2>
+      </div>
+    </div>
+    <div id="links"><ul><li class="copyright"><a href="https://webhost.am/" target="_blank">WebHOST.am © 2017-<script type="text/javascript">document.write(new Date().getFullYear())</script> «Code Craft» LLC.</a></li></ul></div>
+    <div id="error-log" style="display: none;"></div>
+  </div></div>
+</div>
+</body>
+</html>
