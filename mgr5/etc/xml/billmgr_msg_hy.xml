@@ -188,7 +188,7 @@
       <msg name="order_transfer">Перенос</msg>
       <msg name="title">Заказ доменного имени</msg>
       <msg name="wizard_title">Выбор доменного имени</msg>
-      <msg name="domain_name">Доменное имя</msg>
+      <msg name="domain_name">Դոմենի անունը</msg>
       <msg name="msg_ok_whois">Ստուգել</msg>
       <msg name="hint_ok_whois">Проверить доступность доменного имени в выбранных или указанных зонах</msg>
       <msg name="msg_ok_pricelist">&lt;&lt; Դոմեններ</msg>
@@ -335,7 +335,7 @@
     <messages name="vds">
       <include name="service"/>
       <msg name="title">Виртуальные выделенные серверы</msg>
-      <msg name="domain">Доменное имя</msg>
+      <msg name="domain">Դոմենի անունը</msg>
       <msg name="hint_domain">Անուն</msg>
       <msg name="ostempl">Шаблон ОС</msg>
       <msg name="serverid">Անուն</msg>
@@ -448,7 +448,7 @@
       <msg name="menu_accountgroup">Группы клиентов</msg>
       <msg name="menu_notification">Уведомления</msg>
       <msg name="menu_affiliate">Реферальные программы</msg>
-      <msg name="menu_ticket_all">Все запросы</msg>
+      <msg name="menu_ticket_all">Բոլոր հարցումները</msg>
       <msg name="menu_selecttickets">Контроль качества</msg>
       <msg name="menu_infoboard">Объявления</msg>
       <msg name="menu_ticket_favorite">Избранные запросы</msg>
@@ -460,7 +460,7 @@
       <msg name="menu_mainmenutool">Инструменты</msg>
       <msg name="menu_certificate">SSL Սերտիֆիկատներ</msg>
       <msg name="menu_clientoption">Профиль</msg>
-      <msg name="menu_user.edit">Добавить пользователя</msg>
+      <msg name="menu_user.edit">Ավելացնել օգտատեր</msg>
       <msg name="menu_profile.add">Добавить плательщика</msg>
       <msg name="menu_basket">Корзина</msg>
       <msg name="menu_reportlist">Отчеты</msg>
@@ -791,8 +791,8 @@
       <msg name="msg_error_checkparam_item_notfound">При проверке параметров услуги с идентификатором в панели управления '__panelid__' обнаружены проблемы: не соответствуют значения параметра '__param__' (значение в панели управления - '__panel_value__'; в BILLmanager 5 - '__billmgr_value__')</msg>
       <msg name="msg_error_profiletype_count">Максимальное количество плательщиков с типом '__profiletype__': __limit__. Вы превысили это значение. Вы можете использовать ранее созданного плательщика или попробовать создать плательщика с другим типом. Если этот вариант вам не подходит, обратитесь в техническую поддержку.</msg>
       <msg name="item_name">Անուն</msg>
-      <msg name="item_user">Имя пользователя</msg>
-      <msg name="item_domain">Доменное имя</msg>
+      <msg name="item_user">Օգտատիրոջ անունը</msg>
+      <msg name="item_domain">Դոմենի անունը</msg>
       <msg name="item_hostname">Доменное хоста</msg>
       <msg name="item_serverid">Наименование сервера</msg>
       <msg name="item_nameserver1">Сервер имен 1</msg>
@@ -1009,7 +1009,7 @@
       <msg name="old_data">исходные данные</msg>
     </messages>
     <messages name="label_approver_fields">
-      <msg name="approver_busy">Данные для подтверждения появятся после перехода сертификата в статус "Активен". Пожалуйста, ожидайте.</msg>
+      <msg name="approver_busy">Данные для подтверждения появятся после перехода сертификата в статус "Ակտիվ է". Пожалуйста, ожидайте.</msg>
       <msg name="approver">Данные для подтверждения по Email</msg>
       <msg name="approver_auth_cname">Данные для подтверждения по DNS CNAME</msg>
       <msg name="approver_auth_file">Данные для подтверждения по HTTP(S)</msg>
@@ -1516,7 +1516,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="licname">Название лицензии</msg>
       <msg name="ip">IP-адрес</msg>
       <msg name="id">Номер</msg>
-      <msg name="short_prolong.redirect">Продлить</msg>
+      <msg name="short_prolong.redirect">երկարաձգել</msg>
       <msg name="hint_prolong.redirect">Продление услуги</msg>
       <msg name="update_expiredate">Получение обновлений до</msg>
       <msg name="hint_update_expiredate">Срок получения обновлений</msg>
@@ -1585,7 +1585,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     <messages name="dedic">
       <include name="service"/>
       <msg name="title">Առանձնացված սերվերներ</msg>
-      <msg name="domain">Доменное имя</msg>
+      <msg name="domain">Դոմենի անունը</msg>
       <msg name="ostempl">Шаблон ОС</msg>
       <msg name="module_description">Выделенный сервер - услуга подходит тем, кому для проектов недостаточно мощности виртуального выделенного сервера. Выделенный сервер - это мощный компьютер, установленный на специальной технологической площадке, на который можно установить любое количество сайтов, виртуальных серверов или любых других программ.</msg>
     </messages>
@@ -1768,14 +1768,14 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="passwd_hint">Пароль FTP Пользователя</msg>
       <msg name="ip_name">IP-адрес</msg>
       <msg name="ip_hint">IP-адрес</msg>
-      <msg name="domain_name">Доменное имя</msg>
+      <msg name="domain_name">Դոմենի անունը</msg>
       <msg name="serverid_name">Անուն</msg>
       <msg name="serverid_hint">Наименование сервера в панели управления</msg>
       <msg name="password_name">Пароль</msg>
       <msg name="password_hint">Пароль доступа к серверу. Для *nix и *bsd операционных систем это пароль пользователя root, для Windows пароль администратора</msg>
       <msg name="userpassword_name">Пароль пользователя</msg>
       <msg name="userpassword_hint">Пароль доступа пользователя в панель управления</msg>
-      <msg name="username_name">Имя пользователя</msg>
+      <msg name="username_name">Օգտատիրոջ անունը</msg>
       <msg name="username_hint">Имя пользователя в панели управления</msg>
       <msg name="panelid_name">Идентификатор</msg>
       <msg name="panelid_hint">Идентификатор в панели управления. Обычно это id виртуального или выделенного сервера в VM/VE/DCImanager соответственно</msg>
@@ -1791,7 +1791,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="approver_email_name">Email адрес подтверждения </msg>
       <msg name="altname_name">Альтернативные имена</msg>
       <msg name="altname_hint">Дополнительные домены добавляемые к сертификату</msg>
-      <msg name="CN_name">Доменное имя</msg>
+      <msg name="CN_name">Դոմենի անունը</msg>
       <msg name="csr_name">Запрос на сертификат</msg>
       <msg name="key_name">Секретный ключ</msg>
       <msg name="crt_name">Сертификат</msg>
@@ -1877,8 +1877,8 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="sitebuilder.paywarning">
       <msg name="title">Предупреждение об оплате</msg>
-      <msg name="paywarn">Управление доменным именем невозможно во время триального периода. Нажмите на кнопку "Оплатить" для запуска процедуры продления услуги.</msg>
-      <msg name="msg_ok">Оплатить</msg>
+      <msg name="paywarn">Управление доменным именем невозможно во время триального периода. Нажмите на кнопку "Վճարել" для запуска процедуры продления услуги.</msg>
+      <msg name="msg_ok">Վճարել</msg>
     </messages>
     <messages name="sitebuilder.domain" type="form">
       <msg name="title">Доменное имя услуги</msg>
@@ -1888,8 +1888,8 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="null">Не использовать</msg>
       <msg name="useowndomain">Собственный домен</msg>
       <msg name="orderdomain">Заказать новый домен</msg>
-      <msg name="ordereddomain">Доменное имя</msg>
-      <msg name="owndomain">Доменное имя</msg>
+      <msg name="ordereddomain">Դոմենի անունը</msg>
+      <msg name="owndomain">Դոմենի անունը</msg>
       <msg name="additional_domain">Дополнительное доменное имя</msg>
       <msg name="msg_orderdomain">Заказать домен</msg>
       <msg name="info">Для нормального функционирования домена необходимо указать следующие данные в панели управления регистратора доменов:&lt;br/&gt;&lt;b&gt;Сервер имен 1&lt;/b&gt;: __NS1__&lt;br/&gt;&lt;b&gt;Сервер имен 2&lt;/b&gt;: __NS2__&lt;br/&gt;&lt;b&gt;IP-адрес&lt;/b&gt;: __IP__</msg>
@@ -1960,7 +1960,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     <messages name="paidsupport.edit">
       <msg name="title">Покупка дополнительной поддержки</msg>
       <msg name="msg_ok">    Ok    </msg>
-      <msg name="msg_pay">Оплатить</msg>
+      <msg name="msg_pay">Վճարել</msg>
       <msg name="msg_edit">Изменить</msg>
       <msg name="incident_limit_msg">Доступно обращений в поддержку</msg>
       <msg name="hint_incident_limit_msg">Количество обращений в поддержку, доступное для использования</msg>
@@ -1968,7 +1968,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <include name="service.edit"/>
       <msg name="short_changepricelist">Смена тарифа</msg>
       <msg name="hint_changepricelist">Сменить тариф</msg>
-      <msg name="short_prolong">Продлить</msg>
+      <msg name="short_prolong">երկարաձգել</msg>
       <msg name="hint_prolong">Продление услуги</msg>
     </messages>
     <messages name="paidsupport.filter">
@@ -2432,7 +2432,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_client">Клиент создавший запрос</msg>
       <msg name="module_description">Данный модуль позволяет просматривать все запросы клиента, вне зависимости от их статуса.</msg>
       <include name="ticket"/>
-      <msg name="title">Все запросы</msg>
+      <msg name="title">Բոլոր հարցումները</msg>
       <msg name="last_message">Последнее сообщение</msg>
       <msg name="hint_last_message">Время последнего сообщения</msg>
       <msg name="last_activity">Последняя активность</msg>
@@ -2682,7 +2682,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="info_item_ip">IP адрес</msg>
       <msg name="info_item_serverid">Наименование в панели</msg>
       <msg name="info_item_processingmodule">Обработчик</msg>
-      <msg name="info_item_username">Имя пользователя</msg>
+      <msg name="info_item_username">Օգտատիրոջ անունը</msg>
       <msg name="info_item_processingmodule_itemcount">Количество услуг обработчика</msg>
       <msg name="info_item_note">Комментарий</msg>
       <msg name="info_ticket_title">Информация о запросе</msg>
@@ -3236,7 +3236,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_read_action">Действие при получении сообщения с сервера</msg>
       <msg name="read_action_none">ничего не делать</msg>
       <msg name="read_action_delete">удалить сообщение с сервера</msg>
-      <msg name="username">Имя пользователя</msg>
+      <msg name="username">Օգտատիրոջ անունը</msg>
     </messages>
     <messages name="gateway.gwlocalmail">
       <msg name="email">Email адрес</msg>
@@ -3526,7 +3526,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="phone">проверенный телефон</msg>
       <msg name="byemail">электронную почту</msg>
       <msg name="msg_error_phone">Проверенный номер телефона не указан или отсутствуют доступные способы отправки кода. Воспользуйтесь получением кода восстановления пароля на адрес электронной почты</msg>
-      <msg name="username">Имя пользователя</msg>
+      <msg name="username">Օգտատիրոջ անունը</msg>
       <msg name="hint_username">Имя пользователя или email адрес</msg>
       <msg name="msg_error_max_phone_send_time">Превышено допустимое количество попыток получения кода по телефону</msg>
       <msg name="msg_error_max_phone_send_time_email">Превышено допустимое количество попыток получения кода по телефону. Для восстановления пароля воспользуйтесь получением ссылки на сброс пароля на ящик электронной почты</msg>
@@ -3595,7 +3595,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_ppdate">Дата платежного поручения</msg>
       <msg name="recipient">Получатель</msg>
       <msg name="hint_recipient">Получатель платежа</msg>
-      <msg name="sender">Плательщик</msg>
+      <msg name="sender">Վճարող</msg>
       <msg name="hint_sender">Отправитель платежа</msg>
       <msg name="msg_confirm_delete">Вы действительно хотите удалить платеж </msg>
       <msg name="msg_confirm_setpaid">Вы действительно хотите зачислить платеж </msg>
@@ -3607,7 +3607,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_payment">Просмотр, выбор или создание платежа, привязанного к загруженным данным</msg>
       <msg name="short_payment">Платеж</msg>
       <msg name="hint_profile">Просмотреть, выбрать или создать платеж, с выбранным или новым плательщиком клиента</msg>
-      <msg name="short_profile">Плательщик</msg>
+      <msg name="short_profile">Վճարող</msg>
       <msg name="hint_setfilter">Установить везде фильтр по клиенту, соответвующему найденым платежам</msg>
       <msg name="hint_amount">Сумма платежа</msg>
       <msg name="cstate">Состояние</msg>
@@ -3646,9 +3646,9 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="paymentupload.payment"/>
     <messages name="paymentupload.profile">
-      <msg name="title">Плательщик</msg>
-      <msg name="hint_default">Плательщик</msg>
-      <msg name="default">Плательщик</msg>
+      <msg name="title">Վճարող</msg>
+      <msg name="hint_default">Վճարող</msg>
+      <msg name="default">Վճարող</msg>
       <msg name="msg_error_noprofile">Выбранному платежному поручению не соответствует плательщик</msg>
       <msg name="msg_error_manyprofile">Выбранному платежному поручению соответствует более одного плательщика</msg>
     </messages>
@@ -3809,7 +3809,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="notpaid">Неоплаченных</msg>
       <msg name="hint_notpaid">Количество услуг, по которым отсутствуют расходы на выбранную дату</msg>
       <msg name="suspended">Остановленных</msg>
-      <msg name="hint_suspended">Количество услуг, находящихся в статусе "Остановлен", по каждому тарифному плану на выбранную дату</msg>
+      <msg name="hint_suspended">Количество услуг, находящихся в статусе "Դադարեցվել է", по каждому тарифному плану на выбранную дату</msg>
       <msg name="ordered">Заказанных</msg>
       <msg name="hint_ordered">Количество заказанных услуг, по каждому тарифному плану на выбранную дату</msg>
       <msg name="day_increase">Прирост за день</msg>
@@ -4221,7 +4221,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="supportincident">Использование обращений в поддержку с __from_date__ по __to_date__</msg>
       <msg name="annual_turnover">Годовой оборот (платежи)</msg>
       <msg name="annual_expense">Годовой оборот (расходы)</msg>
-      <msg name="acc_info">Информация об аккаунте</msg>
+      <msg name="acc_info">Հաշվի տեղեկություններ</msg>
       <msg name="personal_account">Лицевой счет</msg>
       <msg name="currencyrate">Курсы валюты лицевого счета</msg>
       <msg name="services">Товары/Услуги</msg>
@@ -4239,7 +4239,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="dashboard.items">
       <msg name="expiredate">Действует до</msg>
-      <msg name="prolongcost">Продлить</msg>
+      <msg name="prolongcost">երկարաձգել</msg>
       <include name="period.number"/>
       <include name="service"/>
     </messages>
@@ -4284,9 +4284,9 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <include name="period.number"/>
       <msg name="status_1">оплачивается</msg>
       <msg name="status_5">обрабатывается</msg>
-      <msg name="status_3">остановлен</msg>
+      <msg name="status_3">Դադարեցվել է</msg>
       <msg name="status_4">удален</msg>
-      <msg name="status_2">активен</msg>
+      <msg name="status_2">Ակտիվ է</msg>
       <msg name="status_2_domain">выполнено</msg>
       <msg name="status_2_certificate">выпущен</msg>
     </messages>
@@ -4468,7 +4468,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="order_lifetime">մեկ անգամ</msg>
       <msg name="order_onetime">մեկ անգամ</msg>
       <msg name="order_transfer">տեղափոխման համար</msg>
-      <msg name="order_prolong">Երկարաձգում </msg>
+      <msg name="order_prolong">երկարաձգել </msg>
       <msg name="bool_0">Выкл.</msg>
       <msg name="bool_1">Вкл.</msg>
       <msg name="order_service">__pricelist____id__ (базовая цена)</msg>
@@ -4570,8 +4570,8 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="domain.status">
       <msg name="domain_status_0">Статус не установлен</msg>
-      <msg name="domain_status_1">Активен</msg>
-      <msg name="domain_status_2">Остановлен</msg>
+      <msg name="domain_status_1">Ակտիվ է</msg>
+      <msg name="domain_status_2">Դադարեցվել է</msg>
       <msg name="domain_status_3">Удалён</msg>
       <msg name="domain_status_4">В корзине</msg>
       <msg name="domain_status_5">Регистрируется</msg>
@@ -4669,7 +4669,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="gdpr_export.user">
       <msg name="title">Информация о пользователе</msg>
-      <msg name="name">Имя пользователя</msg>
+      <msg name="name">Օգտատիրոջ անունը</msg>
       <msg name="realname">ФИО</msg>
       <msg name="email">Email</msg>
       <msg name="phone">Հեռախոս</msg>
@@ -4683,7 +4683,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
     </messages>
     <messages name="gdpr_export.profile">
       <msg name="title">Информация о плательщиках</msg>
-      <msg name="name">Плательщик</msg>
+      <msg name="name">Վճարող</msg>
       <msg name="profiletype">Юридический статус контакта</msg>
       <include name="profile.profiletype"/>
       <msg name="person">ФИО плательщика</msg>
@@ -5109,7 +5109,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="hint_basket_empty">Пустая корзина</msg>
       <msg name="short_basket_empty">Пустая корзина</msg>
       <msg name="msg_delete">Удалить</msg>
-      <msg name="msg_bay">Оплатить</msg>
+      <msg name="msg_bay">Վճարել</msg>
       <msg name="msg_register">Зарегистрироваться и оплатить</msg>
       <msg name="msg_free">Активировать</msg>
       <msg name="promocode">Промокод</msg>
@@ -5733,7 +5733,7 @@ CNAME: SHA-хеш.comodoca.com]]></msg>
       <msg name="title">Редактирование лицевого счета</msg>
       <msg name="referer">Привлечен клиентом</msg>
       <msg name="hint_referer">Укажите код клиента, который привел клиента по реферальной программе</msg>
-      <msg name="active">Активен</msg>
+      <msg name="active">Ակտիվ է</msg>
       <msg name="msg_error_has_active_subaccount">У клиента уже есть активный счет у данного провайдера</msg>
       <msg name="hint_active">Счет клиента активен. У клиента может быть только один активный счет у провайдера</msg>
       <msg name="incident_used">Использовано обращений в поддержку</msg>
@@ -6990,7 +6990,7 @@ https://domain/billmgr?datacenter%3D0%26itemtype%3D0%26period%3D0%26pricelist%3D
       <msg name="32084">Исправлена ошибка выбора наибольшей скидки для услуг с заказанными дополнениями, при наличии скидок заданных % от стоимости услуги и специальной ценой на стоимость услуги, при условии что стоимость по специальной цене меньше стоимости услуги с дополнениями, но больше стоимости с учетом скидки заданной %</msg>
       <msg name="32075">Исправлена работа фильтра по способу получения документов в списке платежей и актов выполненных работ</msg>
       <msg name="32068">Исправлено ошибочное отображение кнопки перехода в панель управления для неактивных услуг в информации о запросе</msg>
-      <msg name="25997">Добавлена возможность восстанавливать услуги. У услуги меняется статус с "Удален" на "Активен" и к ней привязывается выбранный обработчик. Восстановление осуществляется на форме "Восстановление удаленной услуги", вызываемой по кнопке "Вкл" при выборе удаленной услуги.</msg>
+      <msg name="25997">Добавлена возможность восстанавливать услуги. У услуги меняется статус с "Удален" на "Ակտիվ է" и к ней привязывается выбранный обработчик. Восстановление осуществляется на форме "Восстановление удаленной услуги", вызываемой по кнопке "Вкл" при выборе удаленной услуги.</msg>
       <msg name="32036">Исправлена ошибка формирования списка доступных статусов актов выполненных работ, для фильтра по актам выполненных работ</msg>
       <msg name="31453">Добавлена возможность настройки зависимости дополнений тарифного плана друг от друга</msg>
       <msg name="32013">Задача на применение параметров при открытии услуги с ручным модулем обработки
@@ -9140,11 +9140,11 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Акты выполненных работ</msg>
       <msg name="number">Номер</msg>
       <msg name="hint_company">Компания, которая выставила акт</msg>
-      <msg name="customer">Плательщик</msg>
+      <msg name="customer">Վճարող</msg>
       <msg name="hint_customer">Плательщик, на имя которого выставлен акт</msg>
       <msg name="cdate">Дата</msg>
       <msg name="hint_cdate">Дата выставления акта</msg>
-      <msg name="short_item">Подробно</msg>
+      <msg name="short_item">Մանրամասն</msg>
       <msg name="hint_item">Посмотреть подробности</msg>
       <msg name="amount_iso">Сумма</msg>
       <msg name="hint_amount_iso">Оказано услуг на сумму</msg>
@@ -9203,9 +9203,9 @@ List-Subscribe: &lt;url&gt;
       <include name="invoice.status"/>
       <include name="profile.profiletype"/>
       <msg name="hint_company">Выберите компанию, для которой создается акт выполненных работ</msg>
-      <msg name="payer">Плательщик</msg>
+      <msg name="payer">Վճարող</msg>
       <msg name="noinvoice">Для компании недоступна печать актов выполненных работ по одной из следующих причин:&lt;br/&gt;- не настроен шаблон печати актов&lt;br/&gt;- для страны юридического адреса компании не включена возможность выписки актов выполненных работ</msg>
-      <msg name="customer">Плательщик</msg>
+      <msg name="customer">Վճարող</msg>
       <msg name="hint_customer">Плательщик, которому будет выставлен акт</msg>
       <msg name="cdate">Дата акта</msg>
       <msg name="hint_cdate">Укажите дату выставления акта</msg>
@@ -9286,7 +9286,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="number">Номер</msg>
       <msg name="fromdate">Создан с даты</msg>
       <msg name="todate">Создан по дату</msg>
-      <msg name="customer">Плательщик</msg>
+      <msg name="customer">Վճարող</msg>
       <include name="compare_include"/>
       <msg name="invoice_status">Статус</msg>
       <include name="profile.profiletype"/>
@@ -9574,9 +9574,9 @@ List-Subscribe: &lt;url&gt;
       <msg name="ctype_9">Состоит в группе клиентов</msg>
       <msg name="ctype_10">Заплачено денег в течение года</msg>
       <msg name="ctype_11">Дата заказа/активации первой услуги</msg>
-      <msg name="hint_ctype__1">При проверке данного условия будут учтены все оплаченные услуги клиента в статусах "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_ctype__1">При проверке данного условия будут учтены все оплаченные услуги клиента в статусах "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
       <msg name="hint_ctype__2">Акцией смогут воспользоваться клиенты с датой регистрации больше, меньше или равно (в зависимости от выбранного типа сравнения) текущей даты минус выбранный период</msg>
-      <msg name="hint_ctype__3">При проверке данного условия будут учтены все услуги клиента в статусах "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_ctype__3">При проверке данного условия будут учтены все услуги клиента в статусах "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
       <msg name="hint_ctype__4">Скидкой единоразово смогут воспользоваться только клиенты, оплатившие услугу выбранного типа или тарифного плана в период действия акции</msg>
       <msg name="hint_ctype__5">При проверке условия будут учтены расходы клиента за указанный период, но только в указанной валюте и у провайдера акции</msg>
       <msg name="hint_ctype__6">При проверке условия будут учтены зачисленные платежи клиента за указанный период, но только в указанной валюте и у провайдера акции</msg>
@@ -10000,7 +10000,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="pricelist">Тариф</msg>
     </messages>
     <messages name="globalindex">
-      <msg name="table_profile">Плательщик</msg>
+      <msg name="table_profile">Վճարող</msg>
       <msg name="table_item">Услуга</msg>
       <msg name="table_payment">Платеж</msg>
       <msg name="table_invoice">Акт выполненых работ</msg>
@@ -10008,8 +10008,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="account.label">метка</msg>
       <msg name="user.realname">ФИО</msg>
       <msg name="user.email">email</msg>
-      <msg name="user.name">имя пользователя</msg>
-      <msg name="employee.name">имя пользователя</msg>
+      <msg name="user.name">Օգտատիրոջ անունը</msg>
+      <msg name="employee.name">Օգտատիրոջ անունը</msg>
       <msg name="department.name">Անուն</msg>
       <msg name="user.phone">номер телефона</msg>
       <msg name="profile.name">Անուն</msg>
@@ -10085,7 +10085,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="orderpriority">Сортировка</msg>
       <msg name="commission">Комиссия платежной системы</msg>
       <msg name="notifytemplate">Шаблон уведомления</msg>
-      <msg name="username">Имя пользователя</msg>
+      <msg name="username">Օգտատիրոջ անունը</msg>
       <msg name="placeholder_username">admin</msg>
       <msg name="short_pdfdownload">Скачать</msg>
       <msg name="hint_pdfdownload">Скачать документ в формате PDF</msg>
@@ -10100,9 +10100,9 @@ List-Subscribe: &lt;url&gt;
       <msg name="threshold">Минимальный баланс обработчика</msg>
       <msg name="hint_threshold">Минимальный баланс обработчика, для успешного продления услуг</msg>
       <msg name="url">URL</msg>
-      <msg name="login">Имя пользователя</msg>
+      <msg name="login">Օգտատիրոջ անունը</msg>
       <msg name="placeholder_login">admin</msg>
-      <msg name="hint_login">Имя пользователя</msg>
+      <msg name="hint_login">Օգտատիրոջ անունը</msg>
       <msg name="hint_password">Укажите пароль для доступа к панели управления</msg>
     </messages>
     <messages name="plugin">
@@ -10403,8 +10403,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_infoboard">Код объявления</msg>
       <msg name="accountname">Наименование клиента</msg>
       <msg name="hint_accountname">Наименование удаляемого клиента</msg>
-      <msg name="username">Имя пользователя</msg>
-      <msg name="hint_username">Имя пользователя</msg>
+      <msg name="username">Օգտատիրոջ անունը</msg>
+      <msg name="hint_username">Օգտատիրոջ անունը</msg>
       <msg name="userrealname">ФИО пользователя</msg>
       <msg name="hint_userrealname">ФИО пользователя</msg>
       <msg name="days_to_delete">Дней до удаления</msg>
@@ -11534,7 +11534,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_confirm_config">Вы действительно хотите обновить конфигурацию модуля</msg>
       <msg name="laststatdate">Статистика</msg>
       <msg name="hint_laststatdate">Дата, когда последний раз собиралась статистика</msg>
-      <msg name="short_gotomoduleserver">Перейти</msg>
+      <msg name="short_gotomoduleserver">Անցնել</msg>
       <msg name="hint_gotomoduleserver">Перейти в панель</msg>
       <msg name="hint_p_active_on">Используется для обработки новых услуг</msg>
       <msg name="hint_p_active_off">Выключен. Новые услуги не назначаются</msg>
@@ -11665,7 +11665,7 @@ List-Subscribe: &lt;url&gt;
     <messages name="processing.ipmgr">
       <msg name="module_description">Настройка интеграции с системой распределения IP-адресов (IPmanager) для автоматического управления базой IP-адресов. Необходимо для всех услуг работающих с IP-адресами.</msg>
       <msg name="title">Связь с IPmanager</msg>
-      <msg name="short_gotoipserver">Перейти</msg>
+      <msg name="short_gotoipserver">Անցնել</msg>
       <msg name="hint_gotoipserver">Перейти в панель</msg>
       <msg name="hint_p_problem">В IPmanager обнаружены проблемы. Для получения подробностей нажмите на данную иконку.</msg>
     </messages>
@@ -11775,7 +11775,7 @@ List-Subscribe: &lt;url&gt;
       <include name="label_processing_modules"/>
       <msg name="title">Серверы имен</msg>
       <msg name="module">Панель управления</msg>
-      <msg name="short_gotonsserver">Перейти</msg>
+      <msg name="short_gotonsserver">Անցնել</msg>
       <msg name="hint_gotonsserver">Перейти в панель</msg>
       <msg name="hint_p_problem">На сервере имен обнаружены проблемы. Для получения подробностей нажмите на данную иконку.</msg>
     </messages>
@@ -12083,8 +12083,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_email">Email пользователя клиента</msg>
       <msg name="short_ticket">Запрос</msg>
       <msg name="hint_ticket">Написать запрос клиенту</msg>
-      <msg name="name">Имя пользователя</msg>
-      <msg name="hint_name">Имя пользователя</msg>
+      <msg name="name">Օգտատիրոջ անունը</msg>
+      <msg name="hint_name">Օգտատիրոջ անունը</msg>
       <msg name="hint_p_enabled_off">Доступ к биллингу запрещен</msg>
       <msg name="hint_p_enabled_on">Доступ к биллингу разрешен</msg>
       <msg name="realname">ФИО</msg>
@@ -12170,7 +12170,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_idlist">Фильтр по идентификатору пользователя в системе</msg>
       <msg name="idlist">Id</msg>
       <msg name="realname">ФИО</msg>
-      <msg name="entry">Имя пользователя</msg>
+      <msg name="entry">Օգտատիրոջ անունը</msg>
       <msg name="language">Язык</msg>
       <msg name="on">Включен</msg>
       <msg name="off">Выключен</msg>
@@ -12183,7 +12183,7 @@ List-Subscribe: &lt;url&gt;
     <messages name="employee.filter">
       <msg name="realname">ФИО</msg>
       <msg name="department">Отдел</msg>
-      <msg name="name">Имя пользователя</msg>
+      <msg name="name">Օգտատիրոջ անունը</msg>
       <msg name="title">Фильтр списка сотрудников</msg>
     </messages>
     <messages name="blacklist">
@@ -12451,7 +12451,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Договор</msg>
       <msg name="clientregdate">Дата основания</msg>
       <msg name="hint_clientregdate">Дата основания компании</msg>
-      <msg name="profile">Плательщик</msg>
+      <msg name="profile">Վճարող</msg>
       <msg name="hint_profile">Введите Id плательщика, для которого необходим договор</msg>
       <msg name="number">Номер</msg>
       <msg name="hint_number">Номер договора</msg>
@@ -12480,7 +12480,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_senddate">Дата отправки договора</msg>
       <msg name="company_name">Компания</msg>
       <msg name="hint_company_name">Наименование компании провайдера</msg>
-      <msg name="client_name">Плательщик</msg>
+      <msg name="client_name">Վճարող</msg>
       <msg name="hint_client_name">Наименование плательщика клиента</msg>
       <msg name="contract_name">Вид договора</msg>
       <msg name="hint_contract_name">Вид договора</msg>
@@ -13408,7 +13408,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="check.time">Время</msg>
       <msg name="check.tld">Доменная зона</msg>
       <msg name="check.url">URL</msg>
-      <msg name="check.username">Имя пользователя</msg>
+      <msg name="check.username">Օգտատիրոջ անունը</msg>
       <msg name="check.xml">XML-документ</msg>
       <msg name="check.xslt">Шаблон документа</msg>
       <msg name="check.https">HTTPS URL</msg>
@@ -13910,7 +13910,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="order_msg_activate">Требует подтверждения email</msg>
       <msg name="order_msg_waitactivate">Требуется ручное подтверждение</msg>
       <msg name="itemmsg">Оплаченные услуги</msg>
-      <msg name="msg_instruction">Инструкция</msg>
+      <msg name="msg_instruction">Ուղեցույց</msg>
       <msg name="title">Заказы</msg>
       <msg name="status_1">Заказ обрабатывается</msg>
       <msg name="status_2">Услуга готова к использованию</msg>
@@ -13961,7 +13961,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="short_setpaid">Зачислить</msg>
       <msg name="hint_setpaid">Зачислить платеж на лицевой счет клиента</msg>
       <msg name="msg_confirm_setpaid">Вы действительно хотите зачислить платеж</msg>
-      <msg name="short_pay">Оплатить</msg>
+      <msg name="short_pay">Վճարել</msg>
       <msg name="hint_pay">Перейти к оплате выбранного платежа</msg>
       <msg name="paymethod_name">Метод оплаты</msg>
       <msg name="hint_paymethod_name">Метод оплаты, через который совершался платеж</msg>
@@ -13970,12 +13970,12 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_confirm_send">Вы действительно хотите отправить счет</msg>
       <msg name="short_print">Печать</msg>
       <msg name="hint_print">Вывод информации о платежа в виде удобном для печати</msg>
-      <msg name="customer_name">Плательщик</msg>
-      <msg name="sender_name">Плательщик</msg>
+      <msg name="customer_name">Վճարող</msg>
+      <msg name="sender_name">Վճարող</msg>
       <msg name="hint_sender_name">Плательщик клиента, от имени которого совершена оплата</msg>
       <msg name="recipient_name">Получатель</msg>
       <msg name="hint_recipient_name">Компания получатель платежа. Отсутствует, если метод оплаты не подключен ни к одной компании</msg>
-      <msg name="short_orderinfo">Подробно</msg>
+      <msg name="short_orderinfo">Մանրամասն</msg>
       <msg name="hint_orderinfo">Содержание счета</msg>
       <msg name="subaccountamount_iso">Сумма</msg>
       <msg name="hint_subaccountamount_iso">Сумма, зачисляемая на счет клиента</msg>
@@ -14005,7 +14005,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_desc">Описание изменений</msg>
       <msg name="hint_changedate">Дата изменения</msg>
       <msg name="title">История изменения платежа с номером</msg>
-      <msg name="user_name">Имя пользователя</msg>
+      <msg name="user_name">Օգտատիրոջ անունը</msg>
       <msg name="hint_user_name">Имя пользователя, совершившего изменение</msg>
       <msg name="human_action">Изменение</msg>
       <msg name="paymethod">Изменен метод оплаты. Старый: '__oldvalue__'. Новый: '__newvalue__'.</msg>
@@ -14063,7 +14063,7 @@ List-Subscribe: &lt;url&gt;
       <include name="label_paymethod"/>
       <msg name="title">Фильтр списка платежей</msg>
       <msg name="number">Номер платежа</msg>
-      <msg name="sender">Плательщик</msg>
+      <msg name="sender">Վճարող</msg>
       <msg name="recipient">Получатель</msg>
       <msg name="createdate">Дата создания</msg>
       <msg name="payfromdate">Зачислен с даты</msg>
@@ -14100,7 +14100,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_documentnumber">№ платежного документа</msg>
       <msg name="documentdate">Дата платежного документа</msg>
       <msg name="hint_documentdate">Дата платежного документа</msg>
-      <msg name="sender">Плательщик</msg>
+      <msg name="sender">Վճարող</msg>
       <msg name="hint_sender">Плательщик клиента, от имени которого совершена оплата</msg>
       <msg name="subaccountamount">Сумма платежа</msg>
       <msg name="hint_subaccountamount">Сумма платежа, зачисляемая на счет клиента</msg>
@@ -14130,7 +14130,7 @@ List-Subscribe: &lt;url&gt;
     </messages>
     <messages name="payment.add.account">
       <msg name="wizard_title">Выбор клиента и провайдера</msg>
-      <msg name="title">Оплата</msg>
+      <msg name="title">Վճարում</msg>
       <msg name="customer_account">Клиент</msg>
       <msg name="hint_customer_account">Клиент, которому будет назначен платеж</msg>
       <msg name="project">Պրովայդեր</msg>
@@ -14144,28 +14144,28 @@ List-Subscribe: &lt;url&gt;
       <msg name="profiletype">Վճարողի կարգավիճակը</msg>
       <msg name="person">Контактное лицо</msg>
       <msg name="hint_person">Укажите контактное лицо</msg>
-      <msg name="profile">Плательщик</msg>
+      <msg name="profile">Վճարող</msg>
       <msg name="hint_profile">Укажите плательщика, от имени которого будет производиться оплата</msg>
       <msg name="add_new">Создать нового</msg>
-      <msg name="wizard_title">Информация о плательщике</msg>
-      <msg name="title_new">Оплата</msg>
-      <msg name="title">Оплата</msg>
+      <msg name="wizard_title">Տեղեկատվություն վճարողի մասին</msg>
+      <msg name="title_new">Վճարում</msg>
+      <msg name="title">Վճարում</msg>
       <msg name="msg_waitactivate">Заявка на верификацию плательщика</msg>
     </messages>
     <messages name="payment.add.pay">
       <include name="payment.send"/>
       <msg name="amount">Сумма платежа</msg>
       <msg name="hint_amount">Сумма платежа в валюте платежной системы</msg>
-      <msg name="msg_ok">Оплатить</msg>
-      <msg name="msg_finish">Оплатить</msg>
+      <msg name="msg_ok">Վճարել</msg>
+      <msg name="msg_finish">Վճարել</msg>
       <msg name="msg_finish_adm">ОК</msg>
       <msg name="msg_finish_adm_send">ОК и отправить</msg>
-      <msg name="redirectwarn">После нажатия на кнопку "Оплатить" откроется сайт платежной системы. После оплаты вы можете вернуться в биллинг для продолжения работы. Обратите внимание, что средства зачисляются не мгновенно, поэтому вам будет необходимо дождаться когда платеж перейдет в статус "Оплачен".</msg>
+      <msg name="redirectwarn">После нажатия на кнопку "Վճարել" откроется сайт платежной системы. После оплаты вы можете вернуться в биллинг для продолжения работы. Обратите внимание, что средства зачисляются не мгновенно, поэтому вам будет необходимо дождаться когда платеж перейдет в статус "Оплачен".</msg>
       <msg name="amount_currency">Сумма платежа</msg>
       <msg name="hint_amount_currency">Сумма к оплате</msg>
       <msg name="msg_error_changecompanyaccept">Вы не подтвердили согласие на создание нового плательщика</msg>
       <msg name="wizard_title">Подтверждение оплаты</msg>
-      <msg name="title">Оплата</msg>
+      <msg name="title">Վճարում</msg>
       <msg name="from_subaccount_amount">С лицевого счета будет снято:</msg>
       <msg name="hint_from_subaccount_amount">Сумма, которая будет списана с баланса лицевого счета</msg>
       <msg name="from_subaccount_balance">Текущий баланс:</msg>
@@ -14176,10 +14176,10 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_error_payment_payd">Платеж уже оплачен, отменен или удаляется</msg>
       <msg name="amount">Сумма платежа</msg>
       <msg name="hint_amount">Сумма платежа в валюте платежной системы</msg>
-      <msg name="msg_ok_noredirect">Оплатить</msg>
+      <msg name="msg_ok_noredirect">Վճարել</msg>
       <msg name="msg_ok">Перейти в платежную систему</msg>
       <msg name="redirectwarn">После нажатия на кнопку "Перейти в платежную систему" откроется сайт платежной системы. После оплаты вы можете вернуться в биллинг для продолжения работы. Обратите внимание, что средства зачисляются не мгновенно, поэтому вам будет необходимо дождаться когда платеж перейдет в статус "Оплачен".</msg>
-      <msg name="title">Оплата</msg>
+      <msg name="title">Վճարում</msg>
       <msg name="amount_currency">Сумма платежа</msg>
       <msg name="hint_amount_currency">Сумма к оплате</msg>
     </messages>
@@ -14245,7 +14245,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_finish">Подтвердить</msg>
       <msg name="paymethod_name">Метод оплаты</msg>
       <msg name="hint_paymethod_name">Метод оплаты, которым будут совершаться платежи</msg>
-      <msg name="profile_name">Плательщик</msg>
+      <msg name="profile_name">Վճարող</msg>
       <msg name="hint_profile_name">Плательщик, от имени которого будет совершаться оплата</msg>
       <msg name="createday">День списания</msg>
       <msg name="hint_createday">День месяца, в который будет производиться автооплата</msg>
@@ -14282,13 +14282,13 @@ List-Subscribe: &lt;url&gt;
       <msg name="maxamount">Лимит платежей в месяц: __maxamount__</msg>
       <msg name="unusedamount">&lt;br/&gt;Остаток на месяц: __unusedamount__</msg>
       <msg name="maxamount_unlimited">не ограничен</msg>
-      <msg name="status_1">Активен</msg>
+      <msg name="status_1">Ակտիվ է</msg>
     </messages>
     <messages name="payment.add.method">
       <msg name="module_description">С помощью данной функции можно оплатить услуги находящиеся в корзине, либо просто пополнить лицевой счет и в дальнейшем использовать эти деньги для заказа или продления услуг, не проходя каждый раз процедуру оплаты.</msg>
-      <msg name="msg_fromsubaccount">Оплатить</msg>
-      <msg name="msg_topaysystem">Оплатить</msg>
-      <msg name="msg_createprofile">Оплатить</msg>
+      <msg name="msg_fromsubaccount">Վճարել</msg>
+      <msg name="msg_topaysystem">Վճարել</msg>
+      <msg name="msg_createprofile">Վճարել</msg>
       <msg name="msg_withoutpay">Далее</msg>
       <msg name="msg_nopaymentminamount">Недоступно</msg>
       <msg name="msg_nopaymentmaxamount">Недоступно</msg>
@@ -14302,7 +14302,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_error_payment_payd">Платеж уже совершен. Можете закрыть форму.</msg>
       <msg name="wizard_title">Выбор метода оплаты</msg>
       <msg name="msg_continue">Продолжить</msg>
-      <msg name="title">Оплата</msg>
+      <msg name="title">Վճարում</msg>
       <msg name="msg_basket_back">&lt;&lt; Назад</msg>
       <msg name="subaccount_msg">Лицевой счет (__balance__)</msg>
       <msg name="hint_amount">Сумма пополнения баланса в указанной валюте без учета возможных комиссий</msg>
@@ -14326,11 +14326,11 @@ List-Subscribe: &lt;url&gt;
     <messages name="payment.add.country">
       <include name="profile.profiletype"/>
       <msg name="vat_info_msg">Налог на добавленную стоимость __taxrate__%</msg>
-      <msg name="wizard_title">Выбор плательщика</msg>
-      <msg name="profile">Плательщик</msg>
+      <msg name="wizard_title">Վճարողի ընտրություն</msg>
+      <msg name="profile">Վճարող</msg>
       <msg name="hint_profile">Выберите существующего плательщика или создайте нового</msg>
       <msg name="add_new">-- Создать нового --</msg>
-      <msg name="title">Оплата</msg>
+      <msg name="title">Վճարում</msg>
       <msg name="country">Երկիրը</msg>
       <msg name="hint_country">Выберите страну</msg>
       <msg name="profiletype">Վճարողի կարգավիճակը</msg>
@@ -14573,9 +14573,9 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_partnergroup">Код клиентской группы, в которую входят партнеры компании</msg>
     </messages>
     <messages name="processing.edit.pmopenprovider">
-      <msg name="user_id">Имя пользователя</msg>
+      <msg name="user_id">Օգտատիրոջ անունը</msg>
       <msg name="password">Пароль</msg>
-      <msg name="hint_user_id">Имя пользователя</msg>
+      <msg name="hint_user_id">Օգտատիրոջ անունը</msg>
       <msg name="hint_password">Пароль</msg>
       <msg name="sandbox">Тестовый доступ</msg>
       <msg name="hint_sandbox">Необходиммо отметить опцию для тестового доступа к API OpenProvider</msg>
@@ -14604,7 +14604,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="placeholder_url">https://myserver.com:1500/ispmgr</msg>
     </messages>
     <messages name="processing.edit.pmsoftaculous">
-      <msg name="login">Имя пользователя</msg>
+      <msg name="login">Օգտատիրոջ անունը</msg>
       <msg name="password">Пароль</msg>
       <msg name="email">Email</msg>
       <msg name="hint_login">Имя пользователя для подключения к API</msg>
@@ -14649,7 +14649,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="msg_error_no_account">Выбранное уведомление не содержит информации о клиенте</msg>
     </messages>
     <messages name="problems">
-      <msg name="short_gotoserver">Перейти</msg>
+      <msg name="short_gotoserver">Անցնել</msg>
       <msg name="hint_gotoserver">Перейти в панель</msg>
     </messages>
     <messages name="problems.su">
@@ -14932,7 +14932,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="type_reopen">Перевыпуск SSL сертификата</msg>
       <msg name="type_start">Запуск услуги</msg>
       <msg name="type_stop">Остановка услуги</msg>
-      <msg name="type_prolong">Продление</msg>
+      <msg name="type_prolong">Երկարաձգել</msg>
       <msg name="type_suspend">Отключение услуги</msg>
       <msg name="type_addip">Добавление IP-адреса</msg>
       <msg name="type_delip">Удаление IP-адреса</msg>
@@ -14962,11 +14962,11 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_p_running_on">Операция выполняется в данный момент</msg>
       <msg name="hint_p_running_off">Операция сейчас не выполняется</msg>
       <msg name="hint_p_running_onoff">Для операции включена ручная обработка</msg>
-      <msg name="short_runningoperationgotoserver">Перейти</msg>
+      <msg name="short_runningoperationgotoserver">Անցնել</msg>
       <msg name="hint_runningoperationgotoserver">Перейти в панель</msg>
       <msg name="hint_p_have_error">При выполнении операции произошла ошибка, для отображения подробностей нажмите на данный значок</msg>
       <msg name="hint_p_startenabled_off">Автоматический запуск операции приостановлен, для отображения подробностей нажмите на данный значок</msg>
-      <msg name="short_history">История</msg>
+      <msg name="short_history">Պատմություն</msg>
       <msg name="hint_history">Полная история ошибочных запусков операции открытия услуг</msg>
       <include name="runningoperation.filter"/>
       <msg name="hint_p_have_error_">Во время выполнения операции возникли проблемы</msg>
@@ -15007,7 +15007,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="type_resume">Включение услуги</msg>
       <msg name="type_setparam">Изменение параметров</msg>
       <msg name="type_reopen">Перевыпуск SSL сертификата</msg>
-      <msg name="type_prolong">Продление</msg>
+      <msg name="type_prolong">Երկարաձգել</msg>
       <msg name="type_suspend">Отключение услуги</msg>
       <msg name="type_addip">Добавление IP-адреса</msg>
       <msg name="type_delip">Удаление IP-адреса</msg>
@@ -15107,7 +15107,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="list_action">Действие</msg>
       <msg name="list_account">Клиент</msg>
       <msg name="msg_newsearch">Новый поиск</msg>
-      <msg name="msg_gotoserver">Перейти</msg>
+      <msg name="msg_gotoserver">Անցնել</msg>
       <msg name="msg_setfilter">Фильтр</msg>
       <msg name="noitem">Нет данных</msg>
       <msg name="list_date_end">Дата по</msg>
@@ -15147,17 +15147,17 @@ List-Subscribe: &lt;url&gt;
       <msg name="groupname">Имя группы</msg>
       <msg name="hint_groupname">Введите имя группы условий</msg>
       <msg name="hint_type__product">У клиента есть определенная услуга</msg>
-      <msg name="hint_type__paiditemcount">При проверке данного условия будут учтены все оплаченные услуги клиента в статусах "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_type__paiditemcount">При проверке данного условия будут учтены все оплаченные услуги клиента в статусах "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
       <msg name="hint_type__registrationdate">Будут выбраны клиенты с датой регистрации больше, меньше или равно (в зависимости от выбранного типа сравнения) текущей даты минус выбранный период</msg>
       <msg name="hint_type__firstexpense">Будут выбраны клиенты с датой первого расхода больше, меньше или равно (в зависимости от выбранного типа сравнения) текущей даты минус выбранный период</msg>
-      <msg name="hint_type__itemcount">При проверке данного условия будут учтены все услуги клиента в статусах "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_type__itemcount">При проверке данного условия будут учтены все услуги клиента в статусах "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
       <msg name="hint_type__expense">При проверке условия будут учтены расходы клиента за весь период, но только в указанной валюте и у провайдера акции</msg>
       <msg name="hint_type__payment">При проверке условия будут учтены зачисленные платежи клиента за весь период, но только в указанной валюте и у провайдера акции</msg>
       <msg name="hint_type__affiliate">Будут выбраны клиенты, приведенные по выбранной партнерской программе</msg>
       <msg name="hint_type__accountgroup">Будут выбраны  клиенты, состоящие в выбранной группе клиентов</msg>
       <msg name="hint_type__annualpayment">При проверке условия будут учтены зачисленные платежи клиента за последний год, но только в указанной валюте и у провайдера акции</msg>
-      <msg name="hint_type__processingmodule">Будут выбраны клиенты у которых есть услуга подключенная к заданному модулю обработки. Учитываются следующие статусы услуг: "Активен", "Обрабатывается" и "Остановлен"</msg>
-      <msg name="hint_type__datacenter">Будут выбраны клиенты, у которых есть услуга на одном из обработчиков, подключенных к заданному дата-центру. Учитываются следующие статусы услуг: "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_type__processingmodule">Будут выбраны клиенты у которых есть услуга подключенная к заданному модулю обработки. Учитываются следующие статусы услуг: "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
+      <msg name="hint_type__datacenter">Будут выбраны клиенты, у которых есть услуга на одном из обработчиков, подключенных к заданному дата-центру. Учитываются следующие статусы услуг: "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
     </messages>
     <messages name="selectclients">
       <msg name="module_description">Сегменты клиентов позволяют динамически группировать клиентов по различным признакам. Далее '''сегменты клиентов''' используются в маркетинговых модулях и отчетах.</msg>
@@ -15284,13 +15284,13 @@ List-Subscribe: &lt;url&gt;
       <msg name="title">Детали</msg>
       <msg name="processingmodule">Модуль обработки</msg>
       <msg name="processingnode">Нода</msg>
-      <msg name="hint_processingmodule">Модуль обработки, к которому подключены услуги клиентов. Учитываются следующие статусы услуг: "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_processingmodule">Модуль обработки, к которому подключены услуги клиентов. Учитываются следующие статусы услуг: "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
       <msg name="hint_processingnode">Нода, на которой размещены услуги клиентов</msg>
     </messages>
     <messages name="selectclients.rule.datacenter">
       <msg name="title">Детали</msg>
       <msg name="datacenter">Дата-центр</msg>
-      <msg name="hint_datacenter">Дата-центр, в котором есть услуги клиентов. Учитываются следующие статусы услуг: "Активен", "Обрабатывается" и "Остановлен"</msg>
+      <msg name="hint_datacenter">Дата-центр, в котором есть услуги клиентов. Учитываются следующие статусы услуг: "Ակտիվ է", "Обрабатывается" и "Դադարեցվել է"</msg>
     </messages>
     <messages name="selectclients.rule.registrationdate">
       <include name="selectclients.rule.comparison"/>
@@ -15332,8 +15332,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_period">Будут отобраны клиенты с услугами любого из указанных периодов</msg>
       <msg name="hint_status">Будут отобраны клиенты с услугами в одном из указанных состояний</msg>
       <msg name="status_1">Заказан</msg>
-      <msg name="status_2">Активен</msg>
-      <msg name="status_3">Остановлен</msg>
+      <msg name="status_2">Ակտիվ է</msg>
+      <msg name="status_3">Դադարեցվել է</msg>
       <msg name="status_4">Удален</msg>
       <msg name="status_5">Обрабатывается</msg>
     </messages>
@@ -15350,8 +15350,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_pricelist_tree">Тип продукта или тарифный план услуг клиентов</msg>
       <msg name="status_5">Обрабатывается</msg>
       <msg name="status_4">Удален</msg>
-      <msg name="status_3">Остановлен</msg>
-      <msg name="status_2">Активен</msg>
+      <msg name="status_3">Դադարեցվել է</msg>
+      <msg name="status_2">Ակտիվ է</msg>
       <msg name="status_1">Заказан</msg>
       <msg name="hint_status">Состояние услуги</msg>
     </messages>
@@ -15443,8 +15443,8 @@ List-Subscribe: &lt;url&gt;
     <messages name="service_status">
       <msg name="status_0">Неизвестен</msg>
       <msg name="status_1">Заказан</msg>
-      <msg name="status_2">Активен</msg>
-      <msg name="status_3">Остановлен</msg>
+      <msg name="status_2">Ակտիվ է</msg>
+      <msg name="status_3">Դադարեցվել է</msg>
       <msg name="status_4">Удален</msg>
       <msg name="status_5">Обрабатывается</msg>
       <msg name="status_service_nosuitable">Нет в наличии</msg>
@@ -15452,7 +15452,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_item_status">Состояние услуги</msg>
       <msg name="item_status_0">Неизвестен</msg>
       <msg name="item_status_1">Заказан</msg>
-      <msg name="item_status_2">Активен</msg>
+      <msg name="item_status_2">Ակտիվ է</msg>
       <msg name="item_status_2_2_29">Активен (остановлен клиентом)</msg>
       <msg name="item_status_2_2_16">Временно остановлен</msg>
       <msg name="item_status_2_stop">Активен (останавливается)</msg>
@@ -15460,9 +15460,9 @@ List-Subscribe: &lt;url&gt;
       <msg name="item_status_2_genkey">Активен (генерация ключа)</msg>
       <msg name="item_status_2_reboot">Активен (перезагрузка)</msg>
       <msg name="item_status_2_hardreboot">Активен (перезагрузка)</msg>
-      <msg name="item_status_3">Остановлен</msg>
+      <msg name="item_status_3">Դադարեցվել է</msg>
       <msg name="item_status_3_employeesuspend">Остановлен администратором</msg>
-      <msg name="item_status_3_autosuspend">Остановлен</msg>
+      <msg name="item_status_3_autosuspend">Դադարեցվել է</msg>
       <msg name="item_status_3_abusesuspend">Остановлен за нарушение</msg>
       <msg name="item_status_4">Удален</msg>
       <msg name="item_status_5">Обрабатывается</msg>
@@ -15482,8 +15482,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_status">Состояние услуги</msg>
       <msg name="status_msg_ordered">В корзине</msg>
       <msg name="status_msg_in_pay">Оплачивается</msg>
-      <msg name="status_msg_active">Активен</msg>
-      <msg name="status_msg_suspended">Остановлен</msg>
+      <msg name="status_msg_active">Ակտիվ է</msg>
+      <msg name="status_msg_suspended">Դադարեցվել է</msg>
       <msg name="status_msg_closed">Удален</msg>
       <msg name="status_msg_in_processing">В обработке</msg>
       <msg name="status_msg_in_suspend">Отключение</msg>
@@ -15515,13 +15515,13 @@ List-Subscribe: &lt;url&gt;
     <messages name="service_ip_status">
       <msg name="ip_status_0">Свободный</msg>
       <msg name="ip_status_1">Обрабатывается</msg>
-      <msg name="ip_status_2">Активен</msg>
+      <msg name="ip_status_2">Ակտիվ է</msg>
       <msg name="ip_status">Статус</msg>
       <msg name="hint_ip_status">Текущий статус IP-адреса</msg>
     </messages>
     <messages name="service_ip_clientstatus">
       <msg name="ip_clientstatus_1">Обрабатывается</msg>
-      <msg name="ip_clientstatus_2">Активен</msg>
+      <msg name="ip_clientstatus_2">Ակտիվ է</msg>
       <msg name="ip_clientstatus_4">Удаляется</msg>
       <msg name="ip_clientstatus">Статус</msg>
       <msg name="hint_ip_clientstatus">Текущий статус IP-адреса</msg>
@@ -15566,7 +15566,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="name">Անուն</msg>
       <msg name="autoprolong">Автопродление</msg>
       <msg name="hint_autoprolong">Период автоматического продления услуги. Автоматическое продление срабатывает в последний день действия услуги</msg>
-      <msg name="short_instruction">Инструкция</msg>
+      <msg name="short_instruction">Ուղեցույց</msg>
       <msg name="hint_instruction">Инструкция об использовании услуги</msg>
       <msg name="hint_instruction_disabled">Инструкция для услуги недоступна</msg>
       <msg name="short_new">Заказать</msg>
@@ -15582,7 +15582,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="short_detail">Конфиг.</msg>
       <msg name="hint_detail">Дополнения к услуге</msg>
       <msg name="hint_history">История изменений услуги</msg>
-      <msg name="short_prolong">Продлить</msg>
+      <msg name="short_prolong">երկարաձգել</msg>
       <msg name="hint_prolong">Продление услуги</msg>
       <msg name="hint_prolong_disabled">Продление услуги невозможно</msg>
       <msg name="short_ip">IP-адреса</msg>
@@ -15590,7 +15590,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="short_addition">Дополнительно</msg>
       <msg name="hint_ip_disabled">Список IP-адресов недоступен</msg>
       <msg name="period">Период</msg>
-      <msg name="short_gotoserver">Перейти</msg>
+      <msg name="short_gotoserver">Անցնել</msg>
       <msg name="hint_gotoserver">Перейти в панель</msg>
       <msg name="short_ask">Вопрос</msg>
       <msg name="hint_ask">Задать вопрос по услуге</msg>
@@ -15598,7 +15598,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_ticket_disabled">Нельзя написать запрос клиенту по данной услуге</msg>
       <msg name="short_ticket">Запрос</msg>
       <msg name="cost">Стоимость</msg>
-      <msg name="domain">Доменное имя</msg>
+      <msg name="domain">Դոմենի անունը</msg>
       <msg name="hint_domain">Доменное имя услуги</msg>
       <msg name="hint_ostempl">Наименование шаблона установленной операционной системы</msg>
       <msg name="hint_status">Текущее состояние услуги</msg>
@@ -15755,7 +15755,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="item_history">История услуги</msg>
       <msg name="list_item_history_changedate">Дата изменения</msg>
       <msg name="list_item_history_desc">Изменение</msg>
-      <msg name="list_item_history_user">Имя пользователя</msg>
+      <msg name="list_item_history_user">Օգտատիրոջ անունը</msg>
       <msg name="list_item_history_ip">IP-адрес</msg>
       <msg name="list_item_history_action">Функция</msg>
       <msg name="full_history">Открыть полную историю услуги</msg>
@@ -15771,7 +15771,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_desc">Описание изменения</msg>
       <msg name="hint_changedate">Дата и время выполенния операции</msg>
       <msg name="title">История изменения услуги</msg>
-      <msg name="user_name">Имя пользователя</msg>
+      <msg name="user_name">Օգտատիրոջ անունը</msg>
       <msg name="user_employee">сотрудник провайдера или система</msg>
       <msg name="ip_employee"> - </msg>
       <msg name="hint_user_name">Имя пользователя, совершившего изменение</msg>
@@ -15814,7 +15814,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="enumerationitem_addonenumerationitem">Изменение лимита ресурса '__itemtype__'. Старое значение - '__oldvalue__'. Новое значение - '__newvalue__'.</msg>
       <msg name="description_info">Изменение</msg>
       <msg name="desc">Изменение</msg>
-      <msg name="user">Имя пользователя</msg>
+      <msg name="user">Օգտատիրոջ անունը</msg>
       <msg name="status">Статус услуги изменен на '__newvalue__'</msg>
       <msg name="hint_user">Имя пользователя, совершившего изменение</msg>
       <msg name="hint_ip">IP-адрес, с которого произведено изменение</msg>
@@ -15941,8 +15941,8 @@ List-Subscribe: &lt;url&gt;
       <msg name="hint_desc">Описание операции над IP-адресом</msg>
       <msg name="hint_changedate">Дата операции с IP-адресом</msg>
       <msg name="title">История IP-адреса</msg>
-      <msg name="user">Имя пользователя</msg>
-      <msg name="user_name">Имя пользователя</msg>
+      <msg name="user">Օգտատիրոջ անունը</msg>
+      <msg name="user_name">Օգտատիրոջ անունը</msg>
       <msg name="hint_user_name">Имя пользователя, совершившего изменение</msg>
       <msg name="human_action">Изменение</msg>
       <msg name="item_set">IP-адрес '__ip__' привязан к услуге '__newvalue__'.</msg>
@@ -16638,18 +16638,18 @@ List-Subscribe: &lt;url&gt;
       <msg name="privacy_disable">отключение</msg>
     </messages>
     <messages name="task.closeaction">
-      <msg name="postopen">Проверка введенных параметров на соответствие параметрам в панели управления (проверяется владелец и IP-адрес). Сохранение параметров в БД и применение их в панели управления. Изменение состояния услуги на "Активен".</msg>
+      <msg name="postopen">Проверка введенных параметров на соответствие параметрам в панели управления (проверяется владелец и IP-адрес). Сохранение параметров в БД и применение их в панели управления. Изменение состояния услуги на "Ակտիվ է".</msg>
       <msg name="postclose">Изменение состояния услуги на "Удален"</msg>
       <msg name="postreopen">Сохранение новых параметров услуги</msg>
       <msg name="postupdatens">Закрытие текущей операции</msg>
-      <msg name="postresume">Изменение состояния услуги на "Активен"</msg>
-      <msg name="postsuspend">Изменение состояния услуги на "Остановлен"</msg>
-      <msg name="postprolong">При необходимости продление лицензии на панель управления. Включение услуги, если она была выключена (изменение состояния на "Активен").</msg>
+      <msg name="postresume">Изменение состояния услуги на "Ակտիվ է"</msg>
+      <msg name="postsuspend">Изменение состояния услуги на "Դադարեցվել է"</msg>
+      <msg name="postprolong">При необходимости продление лицензии на панель управления. Включение услуги, если она была выключена (изменение состояния на "Ակտիվ է").</msg>
       <msg name="postsetparam">Нет действий</msg>
       <msg name="postchangepassword">Нет действий</msg>
-      <msg name="postreboot">Изменение состояния услуги на "Активен"</msg>
+      <msg name="postreboot">Изменение состояния услуги на "Ակտիվ է"</msg>
       <msg name="postgenkey">Изменение параметра "Ключ лицензии"</msg>
-      <msg name="no_suitable">Если отмечена опция "Открыть вручную" - выполняются действия задачи на открытие - проверка введенных параметров на соответствие параметрам в панели управления (проверяется владелец и IP-адрес), сохранение параметров в БД и применение их в панели управления, изменение состояния услуги на "Активен". В противном случае - выбор подходящего модуля обработки, в случае неудачи - пересоздание задачи.</msg>
+      <msg name="no_suitable">Если отмечена опция "Открыть вручную" - выполняются действия задачи на открытие - проверка введенных параметров на соответствие параметрам в панели управления (проверяется владелец и IP-адрес), сохранение параметров в БД и применение их в панели управления, изменение состояния услуги на "Ակտիվ է". В противном случае - выбор подходящего модуля обработки, в случае неудачи - пересоздание задачи.</msg>
       <msg name="addip">Сохранение введенных параметров в БД ("ручное" добавление IP-адреса)</msg>
       <msg name="delip">Удаление IP-адреса из BILLmanager</msg>
       <msg name="dedic_dismatch_ip">Проверка наличия указанного IP-адреса у сервера в панели управления. Сохранение введенных параметров в БД.</msg>
@@ -16662,7 +16662,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="hang_operation">В зависимости от выбора пользователя при закрытии задачи либо не выполняется никаких действий, либо перезапускается текущая операция (вариант по умолчанию)</msg>
       <msg name="removefailedfreedomain">Нет действий</msg>
       <msg name="absent_item">Нет действий</msg>
-      <msg name="transfer">Сохранение параметров в БД и применение их в панели управления. Изменение состояния услуги на "Активен".</msg>
+      <msg name="transfer">Сохранение параметров в БД и применение их в панели управления. Изменение состояния услуги на "Ակտիվ է".</msg>
       <msg name="dedic_failed">Проверка освобожден ли выделенный сервер в панели управления, если нет - выдача ошибки</msg>
       <msg name="dedic_not_free">Проверка освобожден ли выделенный сервер в панели управления, если нет - выдача ошибки</msg>
       <msg name="dedic_assembling">Запуск операции на открытие услуги</msg>
@@ -17162,7 +17162,7 @@ List-Subscribe: &lt;url&gt;
       <msg name="recalcdate">Дата перерасчета</msg>
       <msg name="request_ip">IP-адрес</msg>
       <msg name="hint_request_ip">IP-адрес с которого была запущена процедура перерасчета</msg>
-      <msg name="username">Имя пользователя</msg>
+      <msg name="username">Օգտատիրոջ անունը</msg>
       <msg name="hint_username">Имя пользователя совершившего перерасчет</msg>
       <msg name="itemcount">Количество услуг</msg>
       <msg name="hint_itemcount">Количество услуг затронутых перерасчетом</msg>
@@ -17188,7 +17188,7 @@ List-Subscribe: &lt;url&gt;
     <messages name="tool.recalculationlist.filter">
       <msg name="item">Id услуги</msg>
       <msg name="fromdate">Перерасчет с даты</msg>
-      <msg name="username">Имя пользователя</msg>
+      <msg name="username">Օգտատիրոջ անունը</msg>
       <msg name="todate">Перерасчет по дату</msg>
     </messages>
     <messages name="settings.verifyemail">
